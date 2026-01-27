@@ -1,9 +1,55 @@
 stat,key,value
-watch_year,ALL_TIME,1
-watch_year,2026,1
+watch_year,ALL_TIME,37
+watch_year,2026,37
+director,Werner Herzog,4
+director,Abbas Kiarostami,3
+director,Agnès Varda,3
+director,Jafar Panahi,3
+director,Francis Ford Coppola,2
+director,Ingmar Bergman,2
+director,Jean-Luc Godard,2
+director,Marcel Carné,2
 director,Billy Wilder,1
-language,en,1
-companion,Sophie,1
-companion,Varnica,1
-location,Home,1
-release_decade,1950s,1
+director,Buster Keaton,1
+director,Carl Theodor Dreyer,1
+director,David Lynch,1
+director,Emeric Pressburger,1
+director,Hong Sang-soo,1
+director,Jacques Tati,1
+director,Janis Crystal Lipzin,1
+director,Jean Cocteau,1
+director,Kleber Mendonça Filho,1
+director,Marjorie Keller,1
+director,Michael Powell,1
+director,Park Chan-wook,1
+director,Sam Wood,1
+director,Stanley Kubrick,1
+director,Takahiko Iimura,1
+director,Terence Davies,1
+language,en,11
+language,fr,9
+language,fa,6
+language,de,4
+language,ko,2
+language,sv,2
+language,da,1
+language,ja,1
+language,pt,1
+companion,Sophie,26
+companion,Varnica,7
+location,Home,30
+location,The Film-Makers' Cooperative,3
+location,BAM,2
+location,Metrograph,1
+location,Nitehawk,1
+release_decade,1990s,8
+release_decade,1970s,5
+release_decade,1930s,4
+release_decade,1960s,4
+release_decade,1980s,4
+release_decade,2020s,4
+release_decade,1950s,3
+release_decade,2000s,2
+release_decade,1920s,1
+release_decade,1940s,1
+release_decade,2010s,1
