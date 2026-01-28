@@ -1,8 +1,8 @@
 stat,key,value
-watch_year,ALL_TIME,321
-watch_year,2026,37
+watch_year,ALL_TIME,322
+watch_year,2026,39
 watch_year,2025,107
-watch_year,2024,173
+watch_year,2024,172
 watch_year,2023,4
 director,Agnès Varda,14
 director,Jafar Panahi,8
@@ -113,6 +113,7 @@ director,Jacques Deray,1
 director,Jacques Tati,1
 director,James Bidgood,1
 director,Janis Crystal Lipzin,1
+director,Jay Roach,1
 director,Jean Renoir,1
 director,Jean-Pierre Jeunet,1
 director,Jean-Pierre Melville,1
@@ -125,7 +126,6 @@ director,Jon Turteltaub,1
 director,Joseph H. Lewis,1
 director,Joseph L. Mankiewicz,1
 director,Joseph Sargent,1
-director,Justin Purefoy,1
 director,Kamal Swaroop,1
 director,Karan Tejpal,1
 director,Kassem Hawal,1
@@ -172,6 +172,7 @@ director,Rose Glass,1
 director,Rose Troche,1
 director,Sam Wood,1
 director,Sanjay Gadhvi,1
+director,Sarah Jacobson,1
 director,Sean Baker,1
 director,Seijun Suzuki,1
 director,Shaunak Sen,1
@@ -193,7 +194,7 @@ director,William Friedkin,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,139
+language,en,140
 language,fr,49
 language,ja,30
 language,zh,17
@@ -213,12 +214,12 @@ language,da,1
 language,ml,1
 language,pt,1
 language,uk,1
-companion,Sophie,213
+companion,Sophie,214
 companion,Yash,21
 companion,Lee,16
-companion,Varnica,13
-companion,Xavier,13
-companion,Isabel,12
+companion,Varnica,15
+companion,Isabel,13
+companion,Xavier,12
 companion,Sunita,8
 companion,Eli,7
 companion,Sanjay,7
@@ -250,17 +251,17 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,55
+location,Home,57
 location,Metrograph,51
 location,BAM,17
 location,Film Forum,13
 location,Lee and Isabel's Apartment,8
-location,Xavier's apartment,4
 location,Flight to Abu Dabhi,3
 location,Hotel in Las Vegas,3
 location,Kunal’s apartment,3
 location,Nitehawk,3
 location,The Film-Makers' Cooperative,3
+location,Xavier's apartment,3
 location,Flight to NYC,2
 location,Flight to SF,2
 location,Spectacle,2
@@ -274,12 +275,12 @@ location,IFC Center,1
 location,Philadelphia Airbnb,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
+release_decade,1990s,59
 release_decade,1980s,58
-release_decade,1990s,57
 release_decade,1960s,42
 release_decade,1970s,39
 release_decade,2000s,34
-release_decade,2020s,32
+release_decade,2020s,31
 release_decade,1950s,25
 release_decade,2010s,13
 release_decade,1940s,12
