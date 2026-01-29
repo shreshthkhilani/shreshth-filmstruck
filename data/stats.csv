@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,322
-watch_year,2026,39
+watch_year,ALL_TIME,323
+watch_year,2026,40
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -172,6 +172,7 @@ director,Rose Glass,1
 director,Rose Troche,1
 director,Sam Wood,1
 director,Sanjay Gadhvi,1
+director,Sara Driver,1
 director,Sarah Jacobson,1
 director,Sean Baker,1
 director,Seijun Suzuki,1
@@ -194,7 +195,7 @@ director,William Friedkin,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,140
+language,en,141
 language,fr,49
 language,ja,30
 language,zh,17
@@ -214,10 +215,10 @@ language,da,1
 language,ml,1
 language,pt,1
 language,uk,1
-companion,Sophie,214
+companion,Sophie,215
 companion,Yash,21
 companion,Lee,16
-companion,Varnica,15
+companion,Varnica,16
 companion,Isabel,13
 companion,Xavier,12
 companion,Sunita,8
@@ -251,7 +252,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,57
+location,Home,58
 location,Metrograph,51
 location,BAM,17
 location,Film Forum,13
@@ -275,8 +276,8 @@ location,IFC Center,1
 location,Philadelphia Airbnb,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
+release_decade,1980s,59
 release_decade,1990s,59
-release_decade,1980s,58
 release_decade,1960s,42
 release_decade,1970s,39
 release_decade,2000s,34
