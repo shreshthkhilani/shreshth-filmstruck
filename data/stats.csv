@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,323
-watch_year,2026,40
+watch_year,ALL_TIME,324
+watch_year,2026,41
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -30,6 +30,7 @@ director,Francis Ford Coppola,3
 director,Gregg Araki,3
 director,Jacques Demy,3
 director,Jean-Luc Godard,3
+director,Marcel Carné,3
 director,Todd Haynes,3
 director,Wong Kar-Wai,3
 director,Alice Rohrwacher,2
@@ -51,7 +52,6 @@ director,Kaneto Shindō,2
 director,Kathleen Collins,2
 director,Leos Carax,2
 director,Lucrecia Martel,2
-director,Marcel Carné,2
 director,Mario Bava,2
 director,Michael Powell,2
 director,Paul Schrader,2
@@ -196,7 +196,7 @@ director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,141
-language,fr,49
+language,fr,50
 language,ja,30
 language,zh,17
 language,fa,13
@@ -215,7 +215,7 @@ language,da,1
 language,ml,1
 language,pt,1
 language,uk,1
-companion,Sophie,215
+companion,Sophie,216
 companion,Yash,21
 companion,Lee,16
 companion,Varnica,16
@@ -252,7 +252,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,58
+location,Home,59
 location,Metrograph,51
 location,BAM,17
 location,Film Forum,13
@@ -285,5 +285,5 @@ release_decade,2020s,31
 release_decade,1950s,25
 release_decade,2010s,13
 release_decade,1940s,12
-release_decade,1930s,8
+release_decade,1930s,9
 release_decade,1920s,1
