@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,325
-watch_year,2026,42
+watch_year,ALL_TIME,326
+watch_year,2026,43
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -24,6 +24,7 @@ director,Ingmar Bergman,4
 director,King Hu,4
 director,Nobuhiko Obayashi,4
 director,Robert Altman,4
+director,Todd Haynes,4
 director,Claire Denis,3
 director,David Cronenberg,3
 director,Francis Ford Coppola,3
@@ -31,7 +32,6 @@ director,Gregg Araki,3
 director,Jacques Demy,3
 director,Jean-Luc Godard,3
 director,Marcel Carné,3
-director,Todd Haynes,3
 director,Wong Kar-Wai,3
 director,Alice Rohrwacher,2
 director,Andrei Tarkovsky,2
@@ -195,7 +195,7 @@ director,William Friedkin,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,141
+language,en,142
 language,fr,50
 language,ja,30
 language,zh,17
@@ -217,8 +217,8 @@ language,pt,1
 language,uk,1
 companion,Sophie,217
 companion,Yash,21
+companion,Varnica,17
 companion,Lee,16
-companion,Varnica,16
 companion,Isabel,13
 companion,Xavier,12
 companion,Sunita,8
@@ -253,7 +253,7 @@ companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
 location,Home,60
-location,Metrograph,51
+location,Metrograph,52
 location,BAM,17
 location,Film Forum,13
 location,Lee and Isabel's Apartment,8
@@ -276,8 +276,8 @@ location,IFC Center,1
 location,Philadelphia Airbnb,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
+release_decade,1990s,60
 release_decade,1980s,59
-release_decade,1990s,59
 release_decade,1960s,42
 release_decade,1970s,39
 release_decade,2000s,34
