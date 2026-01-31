@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,324
-watch_year,2026,41
+watch_year,ALL_TIME,325
+watch_year,2026,42
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -37,6 +37,7 @@ director,Alice Rohrwacher,2
 director,Andrei Tarkovsky,2
 director,Ang Lee,2
 director,Barry Sonnenfeld,2
+director,Carl Theodor Dreyer,2
 director,Dario Argento,2
 director,Edward Yang,2
 director,Emeric Pressburger,2
@@ -76,7 +77,6 @@ director,Bi Gan,1
 director,Blake Edwards,1
 director,Brian Henson,1
 director,Buster Keaton,1
-director,Carl Theodor Dreyer,1
 director,Céline Sciamma,1
 director,Chad Stahelski,1
 director,Charles Vidor,1
@@ -200,7 +200,7 @@ language,fr,50
 language,ja,30
 language,zh,17
 language,fa,13
-language,de,11
+language,de,12
 language,es,10
 language,cn,9
 language,hi,8
@@ -215,7 +215,7 @@ language,da,1
 language,ml,1
 language,pt,1
 language,uk,1
-companion,Sophie,216
+companion,Sophie,217
 companion,Yash,21
 companion,Lee,16
 companion,Varnica,16
@@ -252,7 +252,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,59
+location,Home,60
 location,Metrograph,51
 location,BAM,17
 location,Film Forum,13
@@ -285,5 +285,5 @@ release_decade,2020s,31
 release_decade,1950s,25
 release_decade,2010s,13
 release_decade,1940s,12
-release_decade,1930s,9
+release_decade,1930s,10
 release_decade,1920s,1
