@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,326
-watch_year,2026,43
+watch_year,ALL_TIME,327
+watch_year,2026,44
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -14,6 +14,7 @@ director,Les Blank,6
 director,Mikio Naruse,6
 director,Mira Nair,6
 director,Abbas Kiarostami,5
+director,Nobuhiko Obayashi,5
 director,Spike Lee,5
 director,Akira Kurosawa,4
 director,Billy Wilder,4
@@ -22,7 +23,6 @@ director,Cheryl Dunye,4
 director,David Lynch,4
 director,Ingmar Bergman,4
 director,King Hu,4
-director,Nobuhiko Obayashi,4
 director,Robert Altman,4
 director,Todd Haynes,4
 director,Claire Denis,3
@@ -197,7 +197,7 @@ director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,142
 language,fr,50
-language,ja,30
+language,ja,31
 language,zh,17
 language,fa,13
 language,de,12
@@ -215,9 +215,9 @@ language,da,1
 language,ml,1
 language,pt,1
 language,uk,1
-companion,Sophie,217
+companion,Sophie,218
 companion,Yash,21
-companion,Varnica,17
+companion,Varnica,18
 companion,Lee,16
 companion,Isabel,13
 companion,Xavier,12
@@ -252,7 +252,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,60
+location,Home,61
 location,Metrograph,52
 location,BAM,17
 location,Film Forum,13
@@ -278,7 +278,7 @@ location,Syndicated,1
 location,The Beverley Las Vegas,1
 release_decade,1990s,60
 release_decade,1980s,59
-release_decade,1960s,42
+release_decade,1960s,43
 release_decade,1970s,39
 release_decade,2000s,34
 release_decade,2020s,31
