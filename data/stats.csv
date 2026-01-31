@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,327
-watch_year,2026,44
+watch_year,ALL_TIME,328
+watch_year,2026,45
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -118,6 +118,7 @@ director,Jean Renoir,1
 director,Jean-Pierre Jeunet,1
 director,Jean-Pierre Melville,1
 director,Jennie Livingston,1
+director,Joachim Trier,1
 director,Joan Micklin Silver,1
 director,John Farrow,1
 director,John Huston,1
@@ -213,11 +214,12 @@ language,ru,3
 language,bn,2
 language,da,1
 language,ml,1
+language,no,1
 language,pt,1
 language,uk,1
-companion,Sophie,218
+companion,Sophie,219
 companion,Yash,21
-companion,Varnica,18
+companion,Varnica,19
 companion,Lee,16
 companion,Isabel,13
 companion,Xavier,12
@@ -254,7 +256,7 @@ companion,Rohin,1
 location,600 Park Pl,141
 location,Home,61
 location,Metrograph,52
-location,BAM,17
+location,BAM,18
 location,Film Forum,13
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
@@ -281,7 +283,7 @@ release_decade,1980s,59
 release_decade,1960s,43
 release_decade,1970s,39
 release_decade,2000s,34
-release_decade,2020s,31
+release_decade,2020s,32
 release_decade,1950s,25
 release_decade,2010s,13
 release_decade,1940s,12
