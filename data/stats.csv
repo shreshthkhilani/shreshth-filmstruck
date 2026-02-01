@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,328
-watch_year,2026,45
+watch_year,ALL_TIME,329
+watch_year,2026,46
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -73,6 +73,7 @@ director,Annie Baker,1
 director,Anupama Srinivasan,1
 director,Ayoka Chenzira,1
 director,Basel Adra,1
+director,Bette Gordon,1
 director,Bi Gan,1
 director,Blake Edwards,1
 director,Brian Henson,1
@@ -196,7 +197,7 @@ director,William Friedkin,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,142
+language,en,143
 language,fr,50
 language,ja,31
 language,zh,17
@@ -217,16 +218,16 @@ language,ml,1
 language,no,1
 language,pt,1
 language,uk,1
-companion,Sophie,219
+companion,Sophie,220
 companion,Yash,21
 companion,Varnica,19
 companion,Lee,16
 companion,Isabel,13
 companion,Xavier,12
+companion,Eli,8
 companion,Sunita,8
-companion,Eli,7
 companion,Sanjay,7
-companion,Jack,5
+companion,Jack,6
 companion,Kunal,5
 companion,Cecilia,4
 companion,Ted,4
@@ -254,7 +255,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,61
+location,Home,62
 location,Metrograph,52
 location,BAM,18
 location,Film Forum,13
@@ -278,8 +279,8 @@ location,IFC Center,1
 location,Philadelphia Airbnb,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
+release_decade,1980s,60
 release_decade,1990s,60
-release_decade,1980s,59
 release_decade,1960s,43
 release_decade,1970s,39
 release_decade,2000s,34
