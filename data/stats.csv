@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,331
-watch_year,2026,48
+watch_year,ALL_TIME,332
+watch_year,2026,49
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -166,6 +166,7 @@ director,Patrick Tam Kar-Ming,1
 director,Payal Kapadia,1
 director,Peter Hedges,1
 director,Phillip R. Ford,1
+director,Pier Paolo Pasolini,1
 director,Rachel Szor,1
 director,Rob Reiner,1
 director,Robin Hardy,1
@@ -206,7 +207,7 @@ language,de,12
 language,es,10
 language,cn,9
 language,hi,8
-language,it,6
+language,it,7
 language,ko,6
 language,ar,5
 language,cs,5
@@ -255,7 +256,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,63
+location,Home,64
 location,Metrograph,53
 location,BAM,18
 location,Film Forum,13
@@ -281,7 +282,7 @@ location,Syndicated,1
 location,The Beverley Las Vegas,1
 release_decade,1990s,61
 release_decade,1980s,60
-release_decade,1960s,44
+release_decade,1960s,45
 release_decade,1970s,39
 release_decade,2000s,34
 release_decade,2020s,32
