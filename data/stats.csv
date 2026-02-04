@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,333
-watch_year,2026,50
+watch_year,ALL_TIME,334
+watch_year,2026,51
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -56,6 +56,7 @@ director,Leos Carax,2
 director,Lucrecia Martel,2
 director,Mario Bava,2
 director,Michael Powell,2
+director,Michelangelo Antonioni,2
 director,Paul Schrader,2
 director,Rainer Werner Fassbinder,2
 director,Ryusuke Hamaguchi,2
@@ -152,7 +153,6 @@ director,Masahiro Shinoda,1
 director,Masaki Kobayashi,1
 director,Maureen Gosling,1
 director,Med Hondo,1
-director,Michelangelo Antonioni,1
 director,Mike Nichols,1
 director,Mojtaba Mirtahmasb,1
 director,Molly Manning Walker,1
@@ -208,7 +208,7 @@ language,de,12
 language,es,10
 language,cn,9
 language,hi,8
-language,it,7
+language,it,8
 language,ko,6
 language,ar,5
 language,cs,5
@@ -220,7 +220,7 @@ language,ml,1
 language,no,1
 language,pt,1
 language,uk,1
-companion,Sophie,221
+companion,Sophie,222
 companion,Yash,21
 companion,Varnica,19
 companion,Lee,16
@@ -257,7 +257,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,65
+location,Home,66
 location,Metrograph,53
 location,BAM,18
 location,Film Forum,13
@@ -283,7 +283,7 @@ location,Syndicated,1
 location,The Beverley Las Vegas,1
 release_decade,1990s,61
 release_decade,1980s,60
-release_decade,1960s,45
+release_decade,1960s,46
 release_decade,1970s,40
 release_decade,2000s,34
 release_decade,2020s,32
