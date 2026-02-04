@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,332
-watch_year,2026,49
+watch_year,ALL_TIME,333
+watch_year,2026,50
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -152,6 +152,7 @@ director,Masahiro Shinoda,1
 director,Masaki Kobayashi,1
 director,Maureen Gosling,1
 director,Med Hondo,1
+director,Michelangelo Antonioni,1
 director,Mike Nichols,1
 director,Mojtaba Mirtahmasb,1
 director,Molly Manning Walker,1
@@ -198,7 +199,7 @@ director,William Friedkin,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,143
+language,en,144
 language,fr,50
 language,ja,32
 language,zh,18
@@ -256,7 +257,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,64
+location,Home,65
 location,Metrograph,53
 location,BAM,18
 location,Film Forum,13
@@ -283,7 +284,7 @@ location,The Beverley Las Vegas,1
 release_decade,1990s,61
 release_decade,1980s,60
 release_decade,1960s,45
-release_decade,1970s,39
+release_decade,1970s,40
 release_decade,2000s,34
 release_decade,2020s,32
 release_decade,1950s,25
