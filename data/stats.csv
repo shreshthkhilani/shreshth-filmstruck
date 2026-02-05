@@ -1,10 +1,10 @@
 stat,key,value
-watch_year,ALL_TIME,334
-watch_year,2026,51
+watch_year,ALL_TIME,335
+watch_year,2026,52
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
-director,Agnès Varda,14
+director,Agnès Varda,15
 director,Jafar Panahi,8
 director,Werner Herzog,8
 director,Alfred Hitchcock,7
@@ -200,7 +200,7 @@ director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,144
-language,fr,50
+language,fr,51
 language,ja,32
 language,zh,18
 language,fa,13
@@ -257,7 +257,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,66
+location,Home,67
 location,Metrograph,53
 location,BAM,18
 location,Film Forum,13
@@ -283,7 +283,7 @@ location,Syndicated,1
 location,The Beverley Las Vegas,1
 release_decade,1990s,61
 release_decade,1980s,60
-release_decade,1960s,46
+release_decade,1960s,47
 release_decade,1970s,40
 release_decade,2000s,34
 release_decade,2020s,32
