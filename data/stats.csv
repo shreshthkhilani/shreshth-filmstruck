@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,335
-watch_year,2026,52
+watch_year,ALL_TIME,336
+watch_year,2026,53
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -23,6 +23,7 @@ director,Cheryl Dunye,4
 director,David Lynch,4
 director,Ingmar Bergman,4
 director,King Hu,4
+director,Marcel Carné,4
 director,Robert Altman,4
 director,Todd Haynes,4
 director,Claire Denis,3
@@ -32,7 +33,6 @@ director,Gregg Araki,3
 director,Jacques Demy,3
 director,Jean-Luc Godard,3
 director,Kaneto Shindō,3
-director,Marcel Carné,3
 director,Tsai Ming-liang,3
 director,Wong Kar-Wai,3
 director,Alice Rohrwacher,2
@@ -200,7 +200,7 @@ director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,144
-language,fr,51
+language,fr,52
 language,ja,32
 language,zh,18
 language,fa,13
@@ -220,7 +220,7 @@ language,ml,1
 language,no,1
 language,pt,1
 language,uk,1
-companion,Sophie,222
+companion,Sophie,224
 companion,Yash,21
 companion,Varnica,19
 companion,Lee,16
@@ -257,7 +257,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,67
+location,Home,68
 location,Metrograph,53
 location,BAM,18
 location,Film Forum,13
@@ -288,7 +288,7 @@ release_decade,1970s,40
 release_decade,2000s,34
 release_decade,2020s,32
 release_decade,1950s,25
+release_decade,1940s,13
 release_decade,2010s,13
-release_decade,1940s,12
 release_decade,1930s,10
 release_decade,1920s,1
