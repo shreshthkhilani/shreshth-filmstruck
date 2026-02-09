@@ -1,10 +1,10 @@
 stat,key,value
-watch_year,ALL_TIME,336
-watch_year,2026,53
+watch_year,ALL_TIME,341
+watch_year,2026,58
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
-director,Agnès Varda,15
+director,Agnès Varda,16
 director,Jafar Panahi,8
 director,Werner Herzog,8
 director,Alfred Hitchcock,7
@@ -20,18 +20,19 @@ director,Akira Kurosawa,4
 director,Billy Wilder,4
 director,Bong Joon Ho,4
 director,Cheryl Dunye,4
+director,Claire Denis,4
 director,David Lynch,4
 director,Ingmar Bergman,4
 director,King Hu,4
 director,Marcel Carné,4
 director,Robert Altman,4
 director,Todd Haynes,4
-director,Claire Denis,3
 director,David Cronenberg,3
 director,Francis Ford Coppola,3
 director,Gregg Araki,3
 director,Jacques Demy,3
 director,Jean-Luc Godard,3
+director,Jia Zhangke,3
 director,Kaneto Shindō,3
 director,Tsai Ming-liang,3
 director,Wong Kar-Wai,3
@@ -46,7 +47,6 @@ director,Emeric Pressburger,2
 director,Fritz Lang,2
 director,Hou Hsiao-hsien,2
 director,Jean Cocteau,2
-director,Jia Zhangke,2
 director,Jocelyne Saab,2
 director,John Waters,2
 director,Juraj Herz,2
@@ -153,6 +153,7 @@ director,Masahiro Shinoda,1
 director,Masaki Kobayashi,1
 director,Maureen Gosling,1
 director,Med Hondo,1
+director,Michael Haneke,1
 director,Mike Nichols,1
 director,Mojtaba Mirtahmasb,1
 director,Molly Manning Walker,1
@@ -187,6 +188,7 @@ director,Sidney Lumet,1
 director,Stanley Donen,1
 director,Stanley Kubrick,1
 director,Susan Seidelman,1
+director,Susan Sontag,1
 director,Takahiko Iimura,1
 director,Terence Davies,1
 director,Terrence Malick,1
@@ -200,9 +202,9 @@ director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,144
-language,fr,52
+language,fr,55
 language,ja,32
-language,zh,18
+language,zh,19
 language,fa,13
 language,de,12
 language,es,10
@@ -212,7 +214,7 @@ language,it,8
 language,ko,6
 language,ar,5
 language,cs,5
-language,sv,4
+language,sv,5
 language,ru,3
 language,bn,2
 language,da,1
@@ -220,7 +222,7 @@ language,ml,1
 language,no,1
 language,pt,1
 language,uk,1
-companion,Sophie,224
+companion,Sophie,228
 companion,Yash,21
 companion,Varnica,19
 companion,Lee,16
@@ -257,8 +259,8 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,68
-location,Metrograph,53
+location,Home,72
+location,Metrograph,54
 location,BAM,18
 location,Film Forum,13
 location,Lee and Isabel's Apartment,8
@@ -281,11 +283,11 @@ location,IFC Center,1
 location,Philadelphia Airbnb,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
-release_decade,1990s,61
+release_decade,1990s,62
 release_decade,1980s,60
-release_decade,1960s,47
+release_decade,1960s,48
 release_decade,1970s,40
-release_decade,2000s,34
+release_decade,2000s,37
 release_decade,2020s,32
 release_decade,1950s,25
 release_decade,1940s,13
