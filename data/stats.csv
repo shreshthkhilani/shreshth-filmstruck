@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,342
-watch_year,2026,59
+watch_year,ALL_TIME,343
+watch_year,2026,60
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -14,6 +14,7 @@ director,Les Blank,6
 director,Mikio Naruse,6
 director,Mira Nair,6
 director,Abbas Kiarostami,5
+director,Jacques Demy,5
 director,Nobuhiko Obayashi,5
 director,Spike Lee,5
 director,Akira Kurosawa,4
@@ -23,7 +24,6 @@ director,Cheryl Dunye,4
 director,Claire Denis,4
 director,David Lynch,4
 director,Ingmar Bergman,4
-director,Jacques Demy,4
 director,King Hu,4
 director,Marcel Carné,4
 director,Robert Altman,4
@@ -202,7 +202,7 @@ director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,144
-language,fr,56
+language,fr,57
 language,ja,32
 language,zh,19
 language,fa,13
@@ -259,7 +259,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,73
+location,Home,74
 location,Metrograph,54
 location,BAM,18
 location,Film Forum,13
@@ -289,7 +289,7 @@ release_decade,1960s,49
 release_decade,1970s,40
 release_decade,2000s,37
 release_decade,2020s,32
-release_decade,1950s,25
+release_decade,1950s,26
 release_decade,1940s,13
 release_decade,2010s,13
 release_decade,1930s,10
