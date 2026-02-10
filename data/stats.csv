@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,341
-watch_year,2026,58
+watch_year,ALL_TIME,342
+watch_year,2026,59
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -23,6 +23,7 @@ director,Cheryl Dunye,4
 director,Claire Denis,4
 director,David Lynch,4
 director,Ingmar Bergman,4
+director,Jacques Demy,4
 director,King Hu,4
 director,Marcel Carné,4
 director,Robert Altman,4
@@ -30,7 +31,6 @@ director,Todd Haynes,4
 director,David Cronenberg,3
 director,Francis Ford Coppola,3
 director,Gregg Araki,3
-director,Jacques Demy,3
 director,Jean-Luc Godard,3
 director,Jia Zhangke,3
 director,Kaneto Shindō,3
@@ -202,7 +202,7 @@ director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,144
-language,fr,55
+language,fr,56
 language,ja,32
 language,zh,19
 language,fa,13
@@ -222,7 +222,7 @@ language,ml,1
 language,no,1
 language,pt,1
 language,uk,1
-companion,Sophie,228
+companion,Sophie,229
 companion,Yash,21
 companion,Varnica,19
 companion,Lee,16
@@ -259,7 +259,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,72
+location,Home,73
 location,Metrograph,54
 location,BAM,18
 location,Film Forum,13
@@ -285,7 +285,7 @@ location,Syndicated,1
 location,The Beverley Las Vegas,1
 release_decade,1990s,62
 release_decade,1980s,60
-release_decade,1960s,48
+release_decade,1960s,49
 release_decade,1970s,40
 release_decade,2000s,37
 release_decade,2020s,32
