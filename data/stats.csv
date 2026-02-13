@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,345
-watch_year,2026,62
+watch_year,ALL_TIME,346
+watch_year,2026,63
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -154,6 +154,7 @@ director,Masahiro Shinoda,1
 director,Masaki Kobayashi,1
 director,Maureen Gosling,1
 director,Med Hondo,1
+director,Michael Almereyda,1
 director,Michael Haneke,1
 director,Mike Nichols,1
 director,Mojtaba Mirtahmasb,1
@@ -201,7 +202,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,145
+language,en,146
 language,fr,58
 language,ja,32
 language,zh,19
@@ -222,7 +223,7 @@ language,ml,1
 language,no,1
 language,pt,1
 language,uk,1
-companion,Sophie,231
+companion,Sophie,232
 companion,Yash,21
 companion,Varnica,19
 companion,Lee,16
@@ -236,12 +237,12 @@ companion,Kunal,5
 companion,Cecilia,4
 companion,Ted,4
 companion,Berna,3
+companion,Gabriel,3
+companion,Gavi,3
 companion,Lila,3
 companion,Akhil,2
 companion,Clio,2
 companion,Diane,2
-companion,Gabriel,2
-companion,Gavi,2
 companion,Geneva,2
 companion,Hannah,2
 companion,Lydia,2
@@ -261,7 +262,7 @@ companion,Rohin,1
 location,600 Park Pl,141
 location,Home,76
 location,Metrograph,54
-location,BAM,18
+location,BAM,19
 location,Film Forum,13
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
@@ -283,8 +284,8 @@ location,IFC Center,1
 location,Philadelphia Airbnb,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
+release_decade,1990s,63
 release_decade,1980s,62
-release_decade,1990s,62
 release_decade,1960s,49
 release_decade,1970s,40
 release_decade,2000s,37
