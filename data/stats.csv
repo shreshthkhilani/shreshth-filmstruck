@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,346
-watch_year,2026,63
+watch_year,ALL_TIME,348
+watch_year,2026,65
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -172,11 +172,13 @@ director,Peter Hedges,1
 director,Phillip R. Ford,1
 director,Pier Paolo Pasolini,1
 director,Rachel Szor,1
+director,Rick Sloane,1
 director,Rob Reiner,1
 director,Robin Hardy,1
 director,Ronny Yu,1
 director,Rose Glass,1
 director,Rose Troche,1
+director,Rupert Julian,1
 director,Sam Wood,1
 director,Sanjay Gadhvi,1
 director,Sara Driver,1
@@ -202,7 +204,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,146
+language,en,148
 language,fr,58
 language,ja,32
 language,zh,19
@@ -223,7 +225,7 @@ language,ml,1
 language,no,1
 language,pt,1
 language,uk,1
-companion,Sophie,232
+companion,Sophie,234
 companion,Yash,21
 companion,Varnica,19
 companion,Lee,16
@@ -260,9 +262,9 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,76
+location,Home,77
 location,Metrograph,54
-location,BAM,19
+location,BAM,20
 location,Film Forum,13
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
@@ -284,8 +286,8 @@ location,IFC Center,1
 location,Philadelphia Airbnb,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
+release_decade,1980s,63
 release_decade,1990s,63
-release_decade,1980s,62
 release_decade,1960s,49
 release_decade,1970s,40
 release_decade,2000s,37
@@ -294,4 +296,4 @@ release_decade,1950s,26
 release_decade,1940s,13
 release_decade,2010s,13
 release_decade,1930s,10
-release_decade,1920s,1
+release_decade,1920s,2
