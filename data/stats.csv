@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,349
-watch_year,2026,66
+watch_year,ALL_TIME,350
+watch_year,2026,67
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -31,6 +31,7 @@ director,Todd Haynes,4
 director,David Cronenberg,3
 director,Francis Ford Coppola,3
 director,Gregg Araki,3
+director,Jean Cocteau,3
 director,Jean-Luc Godard,3
 director,Jia Zhangke,3
 director,Kaneto Shindō,3
@@ -46,7 +47,6 @@ director,Edward Yang,2
 director,Emeric Pressburger,2
 director,Fritz Lang,2
 director,Hou Hsiao-hsien,2
-director,Jean Cocteau,2
 director,Jocelyne Saab,2
 director,John Waters,2
 director,Juraj Herz,2
@@ -205,7 +205,7 @@ director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,149
-language,fr,58
+language,fr,59
 language,ja,32
 language,zh,19
 language,fa,13
@@ -225,7 +225,7 @@ language,ml,1
 language,no,1
 language,pt,1
 language,uk,1
-companion,Sophie,235
+companion,Sophie,236
 companion,Yash,21
 companion,Varnica,19
 companion,Lee,16
@@ -262,7 +262,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,77
+location,Home,78
 location,Metrograph,54
 location,BAM,21
 location,Film Forum,13
@@ -293,7 +293,7 @@ release_decade,1970s,40
 release_decade,2000s,37
 release_decade,2020s,32
 release_decade,1950s,26
-release_decade,1940s,13
+release_decade,1940s,14
 release_decade,2010s,13
 release_decade,1930s,10
 release_decade,1920s,2
