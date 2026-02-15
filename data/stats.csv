@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,348
-watch_year,2026,65
+watch_year,ALL_TIME,349
+watch_year,2026,66
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -60,6 +60,7 @@ director,Michelangelo Antonioni,2
 director,Paul Schrader,2
 director,Rainer Werner Fassbinder,2
 director,Ryusuke Hamaguchi,2
+director,Sarah Jacobson,2
 director,Satoshi Kon,2
 director,Satyajit Ray,2
 director,Shinji Sōmai,2
@@ -182,7 +183,6 @@ director,Rupert Julian,1
 director,Sam Wood,1
 director,Sanjay Gadhvi,1
 director,Sara Driver,1
-director,Sarah Jacobson,1
 director,Sean Baker,1
 director,Seijun Suzuki,1
 director,Shaunak Sen,1
@@ -204,7 +204,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,148
+language,en,149
 language,fr,58
 language,ja,32
 language,zh,19
@@ -225,7 +225,7 @@ language,ml,1
 language,no,1
 language,pt,1
 language,uk,1
-companion,Sophie,234
+companion,Sophie,235
 companion,Yash,21
 companion,Varnica,19
 companion,Lee,16
@@ -264,7 +264,7 @@ companion,Rohin,1
 location,600 Park Pl,141
 location,Home,77
 location,Metrograph,54
-location,BAM,20
+location,BAM,21
 location,Film Forum,13
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
@@ -286,8 +286,8 @@ location,IFC Center,1
 location,Philadelphia Airbnb,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
+release_decade,1990s,64
 release_decade,1980s,63
-release_decade,1990s,63
 release_decade,1960s,49
 release_decade,1970s,40
 release_decade,2000s,37
