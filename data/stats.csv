@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,350
-watch_year,2026,67
+watch_year,ALL_TIME,351
+watch_year,2026,68
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -191,6 +191,7 @@ director,Shuchi Talati,1
 director,Sidney Lumet,1
 director,Stanley Donen,1
 director,Stanley Kubrick,1
+director,Sudhir Mishra,1
 director,Susan Seidelman,1
 director,Susan Sontag,1
 director,Takahiko Iimura,1
@@ -212,7 +213,7 @@ language,fa,13
 language,de,12
 language,es,10
 language,cn,9
-language,hi,8
+language,hi,9
 language,it,8
 language,ko,6
 language,ar,5
@@ -262,7 +263,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,78
+location,Home,79
 location,Metrograph,54
 location,BAM,21
 location,Film Forum,13
@@ -290,7 +291,7 @@ release_decade,1990s,64
 release_decade,1980s,63
 release_decade,1960s,49
 release_decade,1970s,40
-release_decade,2000s,37
+release_decade,2000s,38
 release_decade,2020s,32
 release_decade,1950s,26
 release_decade,1940s,14
