@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,352
-watch_year,2026,69
+watch_year,ALL_TIME,353
+watch_year,2026,70
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -65,6 +65,7 @@ director,Sarah Jacobson,2
 director,Satoshi Kon,2
 director,Shinji Sōmai,2
 director,Stanley Kwan Kam-Pang,2
+director,Terrence Malick,2
 director,Věra Chytilová,2
 director,William Friedkin,2
 director,Wim Wenders,2
@@ -196,7 +197,6 @@ director,Susan Seidelman,1
 director,Susan Sontag,1
 director,Takahiko Iimura,1
 director,Terence Davies,1
-director,Terrence Malick,1
 director,Tim Burton,1
 director,Vera Drew,1
 director,Vincent Gallo,1
@@ -205,7 +205,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yurii Illienko,1
 director,Yuval Abraham,1
-language,en,149
+language,en,150
 language,fr,59
 language,ja,32
 language,zh,19
@@ -263,7 +263,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,80
+location,Home,81
 location,Metrograph,54
 location,BAM,21
 location,Film Forum,13
@@ -290,7 +290,7 @@ location,The Beverley Las Vegas,1
 release_decade,1990s,64
 release_decade,1980s,63
 release_decade,1960s,49
-release_decade,1970s,40
+release_decade,1970s,41
 release_decade,2000s,38
 release_decade,2020s,32
 release_decade,1950s,27
