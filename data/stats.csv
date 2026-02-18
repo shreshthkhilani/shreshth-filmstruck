@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,353
-watch_year,2026,70
+watch_year,ALL_TIME,354
+watch_year,2026,71
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -70,6 +70,7 @@ director,Věra Chytilová,2
 director,William Friedkin,2
 director,Wim Wenders,2
 director,Youssef Chahine,2
+director,Yurii Illienko,2
 director,Andrzej Żuławski,1
 director,Anirban Dutta,1
 director,Anna Biller,1
@@ -203,7 +204,6 @@ director,Vincent Gallo,1
 director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
-director,Yurii Illienko,1
 director,Yuval Abraham,1
 language,en,150
 language,fr,59
@@ -221,11 +221,11 @@ language,cs,5
 language,sv,5
 language,bn,3
 language,ru,3
+language,uk,2
 language,da,1
 language,ml,1
 language,no,1
 language,pt,1
-language,uk,1
 companion,Sophie,237
 companion,Yash,21
 companion,Varnica,19
@@ -263,7 +263,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,81
+location,Home,82
 location,Metrograph,54
 location,BAM,21
 location,Film Forum,13
@@ -289,7 +289,7 @@ location,Syndicated,1
 location,The Beverley Las Vegas,1
 release_decade,1990s,64
 release_decade,1980s,63
-release_decade,1960s,49
+release_decade,1960s,50
 release_decade,1970s,41
 release_decade,2000s,38
 release_decade,2020s,32
