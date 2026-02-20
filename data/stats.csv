@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,355
-watch_year,2026,72
+watch_year,ALL_TIME,356
+watch_year,2026,73
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -151,6 +151,7 @@ director,Luca Guadagnino,1
 director,Lucy Kerr,1
 director,Luis Buñuel,1
 director,Mabel Cheung Yuen-Ting,1
+director,Marguerite Duras,1
 director,Marjorie Keller,1
 director,Marlon Riggs,1
 director,Masahiro Shinoda,1
@@ -207,7 +208,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
 language,en,150
-language,fr,59
+language,fr,60
 language,ja,32
 language,zh,19
 language,fa,13
@@ -228,7 +229,7 @@ language,hy,1
 language,ml,1
 language,no,1
 language,pt,1
-companion,Sophie,237
+companion,Sophie,238
 companion,Yash,21
 companion,Varnica,19
 companion,Lee,16
@@ -265,7 +266,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,83
+location,Home,84
 location,Metrograph,54
 location,BAM,21
 location,Film Forum,13
@@ -292,7 +293,7 @@ location,The Beverley Las Vegas,1
 release_decade,1990s,64
 release_decade,1980s,63
 release_decade,1960s,51
-release_decade,1970s,41
+release_decade,1970s,42
 release_decade,2000s,38
 release_decade,2020s,32
 release_decade,1950s,27
