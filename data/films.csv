@@ -36,6 +36,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 832,M,Fritz Lang,1931,de,/bTdZk3q2DWpBRnLiaaItKFWOVhI.jpg
 845,Strangers on a Train,Alfred Hitchcock,1951,en,/ihC083U7ef56Ui4x0P0dobojrZ1.jpg
 872,Singin' in the Rain,"Stanley Donen,Gene Kelly",1952,en,/w03EiJVHP8Un77boQeE7hg9DVdU.jpg
+883,Coffee and Cigarettes,Jim Jarmusch,2004,en,/pfG02QCsutx3PIxFS8UY4iM9AsS.jpg
 925,Do the Right Thing,Spike Lee,1989,en,/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg
 940,The Lady Vanishes,Alfred Hitchcock,1938,en,/c1t9LB76LvEARPanfEzXmkm7fwY.jpg
 963,The Maltese Falcon,John Huston,1941,en,/tToK0wkxzKInO7FuQttj9gcuVjF.jpg
@@ -169,6 +170,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 30017,Close-Up,Abbas Kiarostami,1990,fa,/m9HG2N9ZKCmNN9qOHJTNyy18wn3.jpg
 30020,Taste of Cherry,Abbas Kiarostami,1997,fa,/vgPwjgbSdbYWrS1ty8TIZtmi6Tn.jpg
 30959,Kwaidan,Masaki Kobayashi,1965,ja,/vmYhFcA2YC15hoL44hQziba75Ij.jpg
+31058,Bitter Rice,Giuseppe De Santis,1949,it,/9vvbZgbkfE7urqQXRNiONmvYTtF.jpg
 31225,Paris Is Burning,Jennie Livingston,1991,en,/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg
 31417,Eyes Without a Face,Georges Franju,1960,fr,/8y7Z9Gvcq52uOlJlUWyn2epGGRd.jpg
 31522,A Woman Is a Woman,Jean-Luc Godard,1961,fr,/xrZu21hriGJQY3qY8nifh2smVHu.jpg
@@ -226,6 +228,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 54464,Fiancés on the Bridge,Agnès Varda,1962,fr,/hxz3xHtDoV5K4UJA5x8HNnSTtN0.jpg
 54898,The Green Ray,Éric Rohmer,1986,fr,/1E3pliSC7lXWw6zJhMvG6ba0UNX.jpg
 56616,"Goodbye, Dragon Inn",Tsai Ming-liang,2003,zh,/js1uTY2FuKspVRQWLudFkEteFI5.jpg
+57283,Häxan,Benjamin Christensen,1922,sv,/3LtaPLlwlA5HX2FjqAb8lsaBI8P.jpg
 57564,Rebels of the Neon God,Tsai Ming-liang,1994,zh,/rSexqhxw6UDpJcc0lwkGVOzmE5O.jpg
 58429,La Ciénaga,Lucrecia Martel,2001,es,/emQIM4vtDbt25tVzdS16w2Gzjbk.jpg
 59143,Mikey and Nicky,Elaine May,1976,en,/fnHC1OJ1EbdOX97nmXVYrXFgiQT.jpg

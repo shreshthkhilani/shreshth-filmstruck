@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,356
-watch_year,2026,73
+watch_year,ALL_TIME,359
+watch_year,2026,76
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -78,6 +78,7 @@ director,Annie Baker,1
 director,Anupama Srinivasan,1
 director,Ayoka Chenzira,1
 director,Basel Adra,1
+director,Benjamin Christensen,1
 director,Bette Gordon,1
 director,Bi Gan,1
 director,Blake Edwards,1
@@ -105,6 +106,7 @@ director,Gene Kelly,1
 director,George Miller,1
 director,Georges Franju,1
 director,Gina Leibrecht,1
+director,Giuseppe De Santis,1
 director,Gordon Parks Jr.,1
 director,Gurinder Chadha,1
 director,Gus Van Sant,1
@@ -124,6 +126,7 @@ director,Jean Renoir,1
 director,Jean-Pierre Jeunet,1
 director,Jean-Pierre Melville,1
 director,Jennie Livingston,1
+director,Jim Jarmusch,1
 director,Joachim Trier,1
 director,Joan Micklin Silver,1
 director,John Farrow,1
@@ -207,7 +210,7 @@ director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
-language,en,150
+language,en,151
 language,fr,60
 language,ja,32
 language,zh,19
@@ -216,11 +219,11 @@ language,de,12
 language,es,10
 language,cn,9
 language,hi,9
-language,it,8
+language,it,9
 language,ko,6
+language,sv,6
 language,ar,5
 language,cs,5
-language,sv,5
 language,bn,3
 language,ru,3
 language,uk,2
@@ -229,7 +232,7 @@ language,hy,1
 language,ml,1
 language,no,1
 language,pt,1
-companion,Sophie,238
+companion,Sophie,241
 companion,Yash,21
 companion,Varnica,19
 companion,Lee,16
@@ -266,10 +269,10 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,84
+location,Home,86
 location,Metrograph,54
 location,BAM,21
-location,Film Forum,13
+location,Film Forum,14
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
 location,Hotel in Las Vegas,3
@@ -294,10 +297,10 @@ release_decade,1990s,64
 release_decade,1980s,63
 release_decade,1960s,51
 release_decade,1970s,42
-release_decade,2000s,38
+release_decade,2000s,39
 release_decade,2020s,32
 release_decade,1950s,27
-release_decade,1940s,14
+release_decade,1940s,15
 release_decade,2010s,13
 release_decade,1930s,10
-release_decade,1920s,2
+release_decade,1920s,3
