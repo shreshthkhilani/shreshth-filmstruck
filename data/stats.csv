@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,359
-watch_year,2026,76
+watch_year,ALL_TIME,362
+watch_year,2026,79
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -28,6 +28,7 @@ director,King Hu,4
 director,Marcel Carné,4
 director,Robert Altman,4
 director,Todd Haynes,4
+director,Tsai Ming-liang,4
 director,David Cronenberg,3
 director,Francis Ford Coppola,3
 director,Gregg Araki,3
@@ -36,7 +37,6 @@ director,Jean-Luc Godard,3
 director,Jia Zhangke,3
 director,Kaneto Shindō,3
 director,Satyajit Ray,3
-director,Tsai Ming-liang,3
 director,Wong Kar-Wai,3
 director,Alice Rohrwacher,2
 director,Andrei Tarkovsky,2
@@ -47,6 +47,7 @@ director,Dario Argento,2
 director,Edward Yang,2
 director,Emeric Pressburger,2
 director,Fritz Lang,2
+director,Hong Sang-soo,2
 director,Hou Hsiao-hsien,2
 director,Jocelyne Saab,2
 director,John Waters,2
@@ -81,6 +82,7 @@ director,Basel Adra,1
 director,Benjamin Christensen,1
 director,Bette Gordon,1
 director,Bi Gan,1
+director,Bill Gunn,1
 director,Blake Edwards,1
 director,Brian Henson,1
 director,Buster Keaton,1
@@ -114,7 +116,6 @@ director,Halina Reijn,1
 director,Hamdan Ballal,1
 director,Hany Abu-Assad,1
 director,Hiroshi Teshigahara,1
-director,Hong Sang-soo,1
 director,Ishirō Honda,1
 director,Jackie Chan,1
 director,Jacques Deray,1
@@ -210,17 +211,17 @@ director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
-language,en,151
+language,en,152
 language,fr,60
 language,ja,32
-language,zh,19
+language,zh,20
 language,fa,13
 language,de,12
 language,es,10
 language,cn,9
 language,hi,9
 language,it,9
-language,ko,6
+language,ko,7
 language,sv,6
 language,ar,5
 language,cs,5
@@ -232,7 +233,7 @@ language,hy,1
 language,ml,1
 language,no,1
 language,pt,1
-companion,Sophie,241
+companion,Sophie,243
 companion,Yash,21
 companion,Varnica,19
 companion,Lee,16
@@ -269,7 +270,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,86
+location,Home,89
 location,Metrograph,54
 location,BAM,21
 location,Film Forum,14
@@ -293,12 +294,12 @@ location,IFC Center,1
 location,Philadelphia Airbnb,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
-release_decade,1990s,64
+release_decade,1990s,65
 release_decade,1980s,63
 release_decade,1960s,51
-release_decade,1970s,42
+release_decade,1970s,43
 release_decade,2000s,39
-release_decade,2020s,32
+release_decade,2020s,33
 release_decade,1950s,27
 release_decade,1940s,15
 release_decade,2010s,13
