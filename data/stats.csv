@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,362
-watch_year,2026,79
+watch_year,ALL_TIME,363
+watch_year,2026,80
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -27,6 +27,7 @@ director,Ingmar Bergman,4
 director,King Hu,4
 director,Marcel Carné,4
 director,Robert Altman,4
+director,Satyajit Ray,4
 director,Todd Haynes,4
 director,Tsai Ming-liang,4
 director,David Cronenberg,3
@@ -36,7 +37,6 @@ director,Jean Cocteau,3
 director,Jean-Luc Godard,3
 director,Jia Zhangke,3
 director,Kaneto Shindō,3
-director,Satyajit Ray,3
 director,Wong Kar-Wai,3
 director,Alice Rohrwacher,2
 director,Andrei Tarkovsky,2
@@ -225,7 +225,7 @@ language,ko,7
 language,sv,6
 language,ar,5
 language,cs,5
-language,bn,3
+language,bn,4
 language,ru,3
 language,uk,2
 language,da,1
@@ -233,7 +233,7 @@ language,hy,1
 language,ml,1
 language,no,1
 language,pt,1
-companion,Sophie,243
+companion,Sophie,244
 companion,Yash,21
 companion,Varnica,19
 companion,Lee,16
@@ -270,7 +270,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,89
+location,Home,90
 location,Metrograph,54
 location,BAM,21
 location,Film Forum,14
@@ -300,7 +300,7 @@ release_decade,1960s,51
 release_decade,1970s,43
 release_decade,2000s,39
 release_decade,2020s,33
-release_decade,1950s,27
+release_decade,1950s,28
 release_decade,1940s,15
 release_decade,2010s,13
 release_decade,1930s,10
