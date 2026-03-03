@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,363
-watch_year,2026,80
+watch_year,ALL_TIME,364
+watch_year,2026,81
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
@@ -16,6 +16,7 @@ director,Mikio Naruse,6
 director,Mira Nair,6
 director,Abbas Kiarostami,5
 director,Nobuhiko Obayashi,5
+director,Satyajit Ray,5
 director,Spike Lee,5
 director,Akira Kurosawa,4
 director,Billy Wilder,4
@@ -27,7 +28,6 @@ director,Ingmar Bergman,4
 director,King Hu,4
 director,Marcel Carné,4
 director,Robert Altman,4
-director,Satyajit Ray,4
 director,Todd Haynes,4
 director,Tsai Ming-liang,4
 director,David Cronenberg,3
@@ -224,8 +224,8 @@ language,it,9
 language,ko,7
 language,sv,6
 language,ar,5
+language,bn,5
 language,cs,5
-language,bn,4
 language,ru,3
 language,uk,2
 language,da,1
@@ -233,7 +233,7 @@ language,hy,1
 language,ml,1
 language,no,1
 language,pt,1
-companion,Sophie,244
+companion,Sophie,245
 companion,Yash,21
 companion,Varnica,19
 companion,Lee,16
@@ -273,7 +273,7 @@ location,600 Park Pl,141
 location,Home,90
 location,Metrograph,54
 location,BAM,21
-location,Film Forum,14
+location,Film Forum,15
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
 location,Hotel in Las Vegas,3
@@ -297,7 +297,7 @@ location,The Beverley Las Vegas,1
 release_decade,1990s,65
 release_decade,1980s,63
 release_decade,1960s,51
-release_decade,1970s,43
+release_decade,1970s,44
 release_decade,2000s,39
 release_decade,2020s,33
 release_decade,1950s,28
