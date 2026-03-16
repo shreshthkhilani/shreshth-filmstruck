@@ -1,10 +1,10 @@
 stat,key,value
-watch_year,ALL_TIME,364
-watch_year,2026,81
+watch_year,ALL_TIME,367
+watch_year,2026,84
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
-director,Agnès Varda,16
+director,Agnès Varda,17
 director,Jafar Panahi,8
 director,Werner Herzog,8
 director,Alfred Hitchcock,7
@@ -23,6 +23,7 @@ director,Billy Wilder,4
 director,Bong Joon Ho,4
 director,Cheryl Dunye,4
 director,Claire Denis,4
+director,David Cronenberg,4
 director,David Lynch,4
 director,Ingmar Bergman,4
 director,King Hu,4
@@ -30,7 +31,6 @@ director,Marcel Carné,4
 director,Robert Altman,4
 director,Todd Haynes,4
 director,Tsai Ming-liang,4
-director,David Cronenberg,3
 director,Francis Ford Coppola,3
 director,Gregg Araki,3
 director,Jean Cocteau,3
@@ -99,6 +99,7 @@ director,Doug Liman,1
 director,Edgar Wright,1
 director,Elaine May,1
 director,Ester Krumbachová,1
+director,F. W. Murnau,1
 director,Federico Fellini,1
 director,Fernando Ayala,1
 director,Frank Capra,1
@@ -211,12 +212,12 @@ director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
-language,en,152
-language,fr,60
+language,en,153
+language,fr,61
 language,ja,32
 language,zh,20
+language,de,13
 language,fa,13
-language,de,12
 language,es,10
 language,cn,9
 language,hi,9
@@ -233,7 +234,7 @@ language,hy,1
 language,ml,1
 language,no,1
 language,pt,1
-companion,Sophie,245
+companion,Sophie,248
 companion,Yash,21
 companion,Varnica,19
 companion,Lee,16
@@ -270,10 +271,10 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,90
+location,Home,92
 location,Metrograph,54
 location,BAM,21
-location,Film Forum,15
+location,Film Forum,16
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
 location,Hotel in Las Vegas,3
@@ -295,8 +296,8 @@ location,Philadelphia Airbnb,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
 release_decade,1990s,65
-release_decade,1980s,63
-release_decade,1960s,51
+release_decade,1980s,64
+release_decade,1960s,52
 release_decade,1970s,44
 release_decade,2000s,39
 release_decade,2020s,33
@@ -304,4 +305,4 @@ release_decade,1950s,28
 release_decade,1940s,15
 release_decade,2010s,13
 release_decade,1930s,10
-release_decade,1920s,3
+release_decade,1920s,4
