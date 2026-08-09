@@ -1,7 +1,7 @@
 stat,key,value
-watch_year,ALL_TIME,387
+watch_year,ALL_TIME,388
 watch_year,2026,104
-watch_year,2025,107
+watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
 director,Agnès Varda,17
@@ -68,6 +68,7 @@ director,Rainer Werner Fassbinder,2
 director,Ryusuke Hamaguchi,2
 director,Sarah Jacobson,2
 director,Satoshi Kon,2
+director,Sergei Parajanov,2
 director,Shinji Sōmai,2
 director,Stanley Kwan Kam-Pang,2
 director,Terrence Malick,2
@@ -204,7 +205,6 @@ director,Sanjay Gadhvi,1
 director,Sara Driver,1
 director,Sean Baker,1
 director,Seijun Suzuki,1
-director,Sergei Parajanov,1
 director,Shaunak Sen,1
 director,Shekhar Kapur,1
 director,Shuchi Talati,1
@@ -240,7 +240,7 @@ language,ar,5
 language,cs,5
 language,pt,4
 language,ru,3
-language,uk,2
+language,uk,3
 language,da,1
 language,hy,1
 language,ml,1
@@ -283,7 +283,7 @@ companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
 location,Home,100
-location,Metrograph,55
+location,Metrograph,56
 location,BAM,28
 location,Film Forum,18
 location,Lee and Isabel's Apartment,8
@@ -310,7 +310,7 @@ location,Syndicated,1
 location,The Beverley Las Vegas,1
 release_decade,1980s,67
 release_decade,1990s,67
-release_decade,1960s,57
+release_decade,1960s,58
 release_decade,1970s,48
 release_decade,2000s,40
 release_decade,2020s,33
