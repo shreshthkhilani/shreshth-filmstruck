@@ -1,29 +1,29 @@
 stat,key,value
-watch_year,ALL_TIME,369
-watch_year,2026,86
+watch_year,ALL_TIME,387
+watch_year,2026,104
 watch_year,2025,107
 watch_year,2024,172
 watch_year,2023,4
 director,Agnès Varda,17
 director,Jafar Panahi,8
+director,Satyajit Ray,8
 director,Werner Herzog,8
 director,Alfred Hitchcock,7
 director,Pedro Almodóvar,7
-director,Satyajit Ray,7
+director,Akira Kurosawa,6
 director,Éric Rohmer,6
 director,Jacques Demy,6
 director,Les Blank,6
 director,Mikio Naruse,6
 director,Mira Nair,6
 director,Abbas Kiarostami,5
+director,David Cronenberg,5
 director,Nobuhiko Obayashi,5
 director,Spike Lee,5
-director,Akira Kurosawa,4
 director,Billy Wilder,4
 director,Bong Joon Ho,4
 director,Cheryl Dunye,4
 director,Claire Denis,4
-director,David Cronenberg,4
 director,David Lynch,4
 director,Ingmar Bergman,4
 director,King Hu,4
@@ -37,10 +37,13 @@ director,Jean Cocteau,3
 director,Jean-Luc Godard,3
 director,Jia Zhangke,3
 director,Kaneto Shindō,3
+director,Masahiro Shinoda,3
+director,Michelangelo Antonioni,3
 director,Wong Kar-Wai,3
 director,Alice Rohrwacher,2
 director,Andrei Tarkovsky,2
 director,Ang Lee,2
+director,António Reis,2
 director,Barry Sonnenfeld,2
 director,Carl Theodor Dreyer,2
 director,Dario Argento,2
@@ -49,6 +52,7 @@ director,Emeric Pressburger,2
 director,Fritz Lang,2
 director,Hong Sang-soo,2
 director,Hou Hsiao-hsien,2
+director,Jean Renoir,2
 director,Jocelyne Saab,2
 director,John Waters,2
 director,Juraj Herz,2
@@ -56,9 +60,9 @@ director,Jūzō Itami,2
 director,Kathleen Collins,2
 director,Leos Carax,2
 director,Lucrecia Martel,2
+director,Margarida Cordeiro,2
 director,Mario Bava,2
 director,Michael Powell,2
-director,Michelangelo Antonioni,2
 director,Paul Schrader,2
 director,Rainer Werner Fassbinder,2
 director,Ryusuke Hamaguchi,2
@@ -72,6 +76,7 @@ director,William Friedkin,2
 director,Wim Wenders,2
 director,Youssef Chahine,2
 director,Yurii Illienko,2
+director,Alan J. Pakula,1
 director,Andrzej Żuławski,1
 director,Anirban Dutta,1
 director,Anna Biller,1
@@ -86,8 +91,10 @@ director,Bill Gunn,1
 director,Blake Edwards,1
 director,Brian Henson,1
 director,Buster Keaton,1
+director,Carol Reed,1
 director,Céline Sciamma,1
 director,Chad Stahelski,1
+director,Charles Laughton,1
 director,Charles Vidor,1
 director,Chris Marker,1
 director,Christian-Jaque,1
@@ -116,7 +123,9 @@ director,Gus Van Sant,1
 director,Halina Reijn,1
 director,Hamdan Ballal,1
 director,Hany Abu-Assad,1
+director,Henry Hathaway,1
 director,Hiroshi Teshigahara,1
+director,Ícaro Martins,1
 director,Ishirō Honda,1
 director,Jackie Chan,1
 director,Jacques Deray,1
@@ -124,17 +133,18 @@ director,Jacques Tati,1
 director,James Bidgood,1
 director,Janis Crystal Lipzin,1
 director,Jay Roach,1
-director,Jean Renoir,1
 director,Jean-Pierre Jeunet,1
 director,Jean-Pierre Melville,1
 director,Jennie Livingston,1
 director,Jim Jarmusch,1
 director,Joachim Trier,1
 director,Joan Micklin Silver,1
+director,John Carpenter,1
 director,John Farrow,1
 director,John Huston,1
 director,John Turturro,1
 director,Jon Turteltaub,1
+director,José Antônio Garcia,1
 director,Joseph H. Lewis,1
 director,Joseph L. Mankiewicz,1
 director,Joseph Sargent,1
@@ -159,7 +169,6 @@ director,Mabel Cheung Yuen-Ting,1
 director,Marguerite Duras,1
 director,Marjorie Keller,1
 director,Marlon Riggs,1
-director,Masahiro Shinoda,1
 director,Masaki Kobayashi,1
 director,Maureen Gosling,1
 director,Med Hondo,1
@@ -169,6 +178,7 @@ director,Mike Nichols,1
 director,Mojtaba Mirtahmasb,1
 director,Molly Manning Walker,1
 director,Nava Mau,1
+director,Ngozi Onwurah,1
 director,Nicolas Roeg,1
 director,Norman Jewison,1
 director,Olivier Assayas,1
@@ -182,6 +192,7 @@ director,Phillip R. Ford,1
 director,Pier Paolo Pasolini,1
 director,Rachel Szor,1
 director,Rick Sloane,1
+director,Rob Cohen,1
 director,Rob Reiner,1
 director,Robin Hardy,1
 director,Ronny Yu,1
@@ -212,46 +223,48 @@ director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
-language,en,153
-language,fr,61
-language,ja,32
+language,en,161
+language,fr,62
+language,ja,36
 language,zh,20
 language,de,13
 language,fa,13
 language,es,10
+language,it,10
 language,cn,9
 language,hi,9
-language,it,9
-language,bn,7
+language,bn,8
 language,ko,7
 language,sv,6
 language,ar,5
 language,cs,5
+language,pt,4
 language,ru,3
 language,uk,2
 language,da,1
 language,hy,1
 language,ml,1
 language,no,1
-language,pt,1
-companion,Sophie,250
+companion,Sophie,262
+companion,Varnica,23
 companion,Yash,22
-companion,Varnica,19
-companion,Lee,16
-companion,Isabel,13
+companion,Lee,17
+companion,Isabel,14
 companion,Xavier,12
-companion,Eli,8
+companion,Eli,9
+companion,Javishth,8
 companion,Sunita,8
 companion,Sanjay,7
 companion,Jack,6
+companion,Berna,5
 companion,Kunal,5
+companion,Ted,5
 companion,Cecilia,4
-companion,Ted,4
-companion,Berna,3
 companion,Gabriel,3
 companion,Gavi,3
 companion,Lila,3
 companion,Akhil,2
+companion,Becca,2
 companion,Clio,2
 companion,Diane,2
 companion,Geneva,2
@@ -262,19 +275,17 @@ companion,Vanshita,2
 companion,Warren,2
 companion,Aditya,1
 companion,August,1
-companion,Becca,1
 companion,Deepa,1
 companion,Eital,1
 companion,James,1
-companion,Javishth,1
 companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,94
-location,Metrograph,54
-location,BAM,21
-location,Film Forum,16
+location,Home,100
+location,Metrograph,55
+location,BAM,28
+location,Film Forum,18
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
 location,Hotel in Las Vegas,3
@@ -290,19 +301,21 @@ location,Anthology Film Project,1
 location,BAM Karen,1
 location,Diane’s apartment,1
 location,Fingerlakes Airbnb,1
+location,Flight to London,1
 location,Flight to Phoenix,1
 location,IFC Center,1
 location,Philadelphia Airbnb,1
+location,Prince Charles Cinema,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
-release_decade,1990s,65
-release_decade,1980s,64
-release_decade,1960s,54
-release_decade,1970s,44
-release_decade,2000s,39
+release_decade,1980s,67
+release_decade,1990s,67
+release_decade,1960s,57
+release_decade,1970s,48
+release_decade,2000s,40
 release_decade,2020s,33
-release_decade,1950s,28
-release_decade,1940s,15
+release_decade,1950s,31
+release_decade,1940s,16
 release_decade,2010s,13
-release_decade,1930s,10
+release_decade,1930s,11
 release_decade,1920s,4

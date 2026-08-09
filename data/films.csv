@@ -13,6 +13,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 426,Vertigo,Alfred Hitchcock,1958,en,/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg
 445,Caché,Michael Haneke,2005,fr,/8ZD7gltGg5c4EvNrOMFy9hwYKxR.jpg
 455,Bend It Like Beckham,Gurinder Chadha,2002,en,/2dzSBmFWWqt8NbnubJKIWU21Y86.jpg
+466,Klute,Alan J. Pakula,1971,en,/tVyINAsNGSgD1OIstqwCcs7wyGH.jpg
 468,My Own Private Idaho,Gus Van Sant,1991,en,/p9TF90Pb5yg2MNb2UztzyXktMm4.jpg
 480,Monsoon Wedding,Mira Nair,2001,hi,/vCwkv7tYFem0tQ9Duoq2MX7T7Zd.jpg
 483,Wild at Heart,David Lynch,1990,en,/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg
@@ -39,6 +40,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 845,Strangers on a Train,Alfred Hitchcock,1951,en,/ihC083U7ef56Ui4x0P0dobojrZ1.jpg
 872,Singin' in the Rain,"Stanley Donen,Gene Kelly",1952,en,/w03EiJVHP8Un77boQeE7hg9DVdU.jpg
 883,Coffee and Cigarettes,Jim Jarmusch,2004,en,/pfG02QCsutx3PIxFS8UY4iM9AsS.jpg
+884,Crash,David Cronenberg,1996,en,/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg
 897,Aparajito,Satyajit Ray,1956,bn,/f94STIuH4S7tqs7nKFbT9SJojqi.jpg
 925,Do the Right Thing,Spike Lee,1989,en,/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg
 940,The Lady Vanishes,Alfred Hitchcock,1938,en,/c1t9LB76LvEARPanfEzXmkm7fwY.jpg
@@ -49,6 +51,8 @@ tmdbId,title,director,releaseYear,language,posterPath
 996,Double Indemnity,Billy Wilder,1944,en,/rVNYZZgfhwqVMMWlBmxOfWqnwCj.jpg
 1051,The French Connection,William Friedkin,1971,en,/5XSGvIKl2yPvOkieFjc3rzLw7x0.jpg
 1089,Point Break,Kathryn Bigelow,1991,en,/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg
+1092,The Third Man,Carol Reed,1949,en,/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg
+1103,Escape from New York,John Carpenter,1981,en,/vH9llaphjAssRGi0k7e75tD40Ce.jpg
 1255,The Host,Bong Joon Ho,2006,ko,/dEDLY3KeghKFzks5nTDWdigVikr.jpg
 1394,Nostalgia,Andrei Tarkovsky,1983,ru,/7jlHpPgFgQxt9f5IGTYemGdvIVV.jpg
 1398,Stalker,Andrei Tarkovsky,1979,ru,/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg
@@ -71,9 +75,11 @@ tmdbId,title,director,releaseYear,language,posterPath
 2907,The Addams Family,Barry Sonnenfeld,1991,en,/qFf8anju5f2epI0my8RdwwIXFIP.jpg
 2998,Zabriskie Point,Michelangelo Antonioni,1970,en,/uelo2oMg4fM51LAm4eEArEwOHXZ.jpg
 3078,It Happened One Night,Frank Capra,1934,en,/wx4ptyx3vlPBVl5DzBA8KomcJww.jpg
+3112,The Night of the Hunter,Charles Laughton,1955,en,/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg
 3133,Badlands,Terrence Malick,1974,en,/z81rBzHNgiNLean2JTGHgxjJ8nq.jpg
 3764,The Naked Island,Kaneto Shindō,1960,ja,/iL1JBiuFenQ6odIpoLMdO5LC8hj.jpg
 3767,Gilda,Charles Vidor,1946,en,/njOxnHcJ5CAjRJbvk5EGp6Jb37R.jpg
+3777,Throne of Blood,Akira Kurosawa,1957,ja,/zaZFMNxJST0TtPd68yF7fNt1he8.jpg
 4203,Women on the Verge of a Nervous Breakdown,Pedro Almodóvar,1988,es,/8C5FJlUo96pj1xAs2BKnB58PYzi.jpg
 4269,A Room in Town,Jacques Demy,1982,fr,/eDO1onM1IxTouTFSXM747Wd7Psj.jpg
 4499,"Pepi, Luci, Bom",Pedro Almodóvar,1980,es,/xL72JwMDJLGZBUtXgjx7eERJ8nj.jpg
@@ -104,6 +110,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 9538,Scanners,David Cronenberg,1981,en,/VTqLdveNXxGsIAZL5I4RliTTt7.jpg
 9540,Dead Ringers,David Cronenberg,1988,en,/ofXwDfM8uYAaftD7cBPcIWdCpMn.jpg
 9611,Romy and Michele's High School Reunion,David Mirkin,1997,en,/yLxgglhaP2QfWVZTdrv7mZgvuHL.jpg
+9799,The Fast and the Furious,Rob Cohen,2001,en,/gqY0ITBgT7A82poL9jv851qdnIb.jpg
 9846,To Live and Die in L.A.,William Friedkin,1985,en,/2iW3pSihBIhXjnBQmUJ0mAiZbB5.jpg
 10166,The Witches,Nicolas Roeg,1990,en,/mPYBjVkeHakkPGY7WaKyyNU4RWm.jpg
 10241,A Tale of Winter,Éric Rohmer,1992,fr,/uHmgUZXl7qkgu97E5ruDetLyDPt.jpg
@@ -143,6 +150,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 18817,The Bride with White Hair,Ronny Yu,1993,cn,/lMr743zdXi1h5yhTdDLyLromCcr.jpg
 19542,The Red Shoes,"Michael Powell,Emeric Pressburger",1948,en,/tRpm0MNYoMOgyumL9ePI3wB2P9V.jpg
 19974,The Big Clock,John Farrow,1948,en,/2HnfWV7TQa0mtRlOw8CGMRIrH7x.jpg
+19997,Niagara,Henry Hathaway,1953,en,/wb9OBAiO3aUpY4UBkE07KscXSkA.jpg
 20345,The Bird with the Crystal Plumage,Dario Argento,1970,it,/dpALRkwodEIT7TGX9SqTgwVNn0i.jpg
 21265,Maqbool,Vishal Bhardwaj,2003,hi,/8ULTBxnbt0NrWlDm5fahbQooj91.jpg
 21462,Masoom,Shekhar Kapur,1983,hi,/a2PVNqiTbALVhyQVuqDMROy21Pt.jpg
@@ -171,6 +179,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 28942,The Brood,David Cronenberg,1979,en,/zSEt4QXRI4Gypd9xvzvucOmPNl5.jpg
 29005,McCabe & Mrs. Miller,Robert Altman,1971,en,/eQ9hDaTNpZ4wb7FWdqoJcOCJBve.jpg
 29161,Phenomena,Dario Argento,1985,en,/8u14C2FLMSCLIT5znmye6RovonO.jpg
+29415,La Bête Humaine,Jean Renoir,1938,fr,/yB8UpOKAz4yorzBqLWXtc6hO3O4.jpg
 30017,Close-Up,Abbas Kiarostami,1990,fa,/m9HG2N9ZKCmNN9qOHJTNyy18wn3.jpg
 30020,Taste of Cherry,Abbas Kiarostami,1997,fa,/vgPwjgbSdbYWrS1ty8TIZtmi6Tn.jpg
 30959,Kwaidan,Masaki Kobayashi,1965,ja,/vmYhFcA2YC15hoL44hQziba75Ij.jpg
@@ -196,6 +205,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 40723,Trouble Every Day,Claire Denis,2001,fr,/jn4799m6uB5P6ZUarlnxvZEZDFp.jpg
 40882,The Mirror,Jafar Panahi,1997,fa,/fHaXxFGSEuvCUYau3jIxMAwU5T6.jpg
 40939,Alexandria… Why?,Youssef Chahine,1979,ar,/k68nAl2BJpX9405UCqs4Xhw2S7n.jpg
+41050,La Notte,Michelangelo Antonioni,1961,it,/xkd7wPJSIC76scBRHCFZ85uOH5d.jpg
 41662,3 Women,Robert Altman,1977,en,/uL5Yg8MEgHGXymTaJBYXn9g0xsH.jpg
 41789,Jacquot,Agnès Varda,1991,fr,/cg0Z7kqFbDOBWNanI7uYHzsTiU5.jpg
 41951,Chocolat,Claire Denis,1988,fr,/ueQP1HpAUY1P4qtgV9XEelEBNfg.jpg
@@ -237,6 +247,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 57564,Rebels of the Neon God,Tsai Ming-liang,1994,zh,/rSexqhxw6UDpJcc0lwkGVOzmE5O.jpg
 58429,La Ciénaga,Lucrecia Martel,2001,es,/emQIM4vtDbt25tVzdS16w2Gzjbk.jpg
 59143,Mikey and Nicky,Elaine May,1976,en,/fnHC1OJ1EbdOX97nmXVYrXFgiQT.jpg
+61475,Pale Flower,Masahiro Shinoda,1964,ja,/xEB48waFBIx4WEySuOpk1vOFZ6E.jpg
 64015,An Autumn's Tale,Mabel Cheung Yuen-Ting,1987,cn,/4q7CAw4lC5T12u9d2Zn9t7MuMww.jpg
 64544,Boyfriends and Girlfriends,Éric Rohmer,1987,fr,/xaQ5u6xPkRiQgRn0tLFzIvZHKZe.jpg
 70202,Patty Hearst,Paul Schrader,1988,en,/tKXJOVLOVG7lO2enlB89n9tkv7T.jpg
@@ -278,8 +289,10 @@ tmdbId,title,director,releaseYear,language,posterPath
 144599,Hello Cubans,Agnès Varda,1963,fr,/1TwQqVoKTkMoEdmVSTZXaMXzz5C.jpg
 148828,Duet for Cannibals,Susan Sontag,1969,sv,/9RJIOM027va9iAlgrHpSwo6Q80z.jpg
 154032,Gap-Toothed Women,Les Blank,1987,en,/9S30KBvZGFad6DftjZ3qzIZodh7.jpg
+154556,New Wave,"José Antônio Garcia,Ícaro Martins",1984,pt,/eKyAO4Q6RQ1v4Az1Xg4FLSjiwFc.jpg
 165432,The Elephant God,Satyajit Ray,1979,bn,/hTuoj57JdCLLcb52pxmXUFuhSTZ.jpg
 185250,The Bitter Stems,Fernando Ayala,1956,es,/tbyOlt6BSqyFx1FpqealxlLkaeO.jpg
+186967,Tras-os-Montes,"Margarida Cordeiro,António Reis",1976,pt,/1SpExnhCADsKa5q6y4GeCojP4kH.jpg
 187022,A Touch of Sin,Jia Zhangke,2013,zh,/6I6XVBrUYBWPDPMdk647VvTSNqx.jpg
 191531,Legend of the Mountain,King Hu,1979,zh,/94ZZwpRyTlstNNSw67jFxCJQhYr.jpg
 197562,An Enemy of the People,Satyajit Ray,1990,bn,/d5e6NDCkrdhYg9OimxzPPRAKqYm.jpg
@@ -287,6 +300,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 199137,"Yum, Yum, Yum! A Taste of the Cajun and Creole Cooking of Louisiana","Les Blank,Maureen Gosling",1990,en,/pFGNhxJPWAOV3I7YzDSb4EwCXVP.jpg
 200381,The Young Girls Turn 25,Agnès Varda,1993,fr,/moM5PJmIQ06dVqfmSwxzaDLyrmk.jpg
 218660,Spacked Out,Lawrence Ah Mon,2000,cn,/iKlLh0Znnce4lQRtiz1NBSQOvaz.jpg
+242375,Desert Rose,"Margarida Cordeiro,António Reis",1989,pt,/5hE5vhIxR0COoBAugyXYIMaLKXF.jpg
 242618,Om Dar-B-Dar,Kamal Swaroop,1988,hi,/xEXzSx9P7f40rntpsRgn1dZegVX.jpg
 244007,Mary Jane's Not a Virgin Anymore,Sarah Jacobson,1998,en,/v9HjEXBKy4T38cwVoJS6ik09dLm.jpg
 245891,John Wick,Chad Stahelski,2014,en,/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg
@@ -301,6 +315,7 @@ tmdbId,title,director,releaseYear,language,posterPath
 266697,"God Respects Us When We Work, But Loves Us When We Dance",Les Blank,1968,en,/ws1vAuhGUpZ294RCTfoDsJWDVOL.jpg
 271858,West Indies,Med Hondo,1979,fr,/2UjSnPwValu1k03iS01ngz0z1MS.jpg
 273896,Losing Ground,Kathleen Collins,1982,en,/zSZT7ndjNUsskQq9IWosW3a9cbk.jpg
+274710,Welcome II the Terrordome,Ngozi Onwurah,1995,en,/ii97IHefRu6wbKQygXYS0lmZ3ah.jpg
 277677,Uncle Yanco,Agnès Varda,1967,fr,/ffZpsbJGuRoMKBQ1ZZ14v06NK7Y.jpg
 279753,Alma's Rainbow,Ayoka Chenzira,1994,en,/8GZDm92ULq5qhxq7J4V9lkvCAhk.jpg
 284506,India Cabaret,Mira Nair,1985,hi,/izMCOyZ7LWalKQPdBdCK9wXAzWg.jpg
