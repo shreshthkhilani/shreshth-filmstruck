@@ -1,14 +1,14 @@
 stat,key,value
-watch_year,ALL_TIME,388
-watch_year,2026,104
+watch_year,ALL_TIME,389
+watch_year,2026,105
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
 director,Agnès Varda,17
+director,Alfred Hitchcock,8
 director,Jafar Panahi,8
 director,Satyajit Ray,8
 director,Werner Herzog,8
-director,Alfred Hitchcock,7
 director,Pedro Almodóvar,7
 director,Akira Kurosawa,6
 director,Éric Rohmer,6
@@ -223,7 +223,7 @@ director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
-language,en,161
+language,en,162
 language,fr,62
 language,ja,36
 language,zh,20
@@ -245,17 +245,17 @@ language,da,1
 language,hy,1
 language,ml,1
 language,no,1
-companion,Sophie,262
+companion,Sophie,263
 companion,Varnica,23
 companion,Yash,22
 companion,Lee,17
 companion,Isabel,14
 companion,Xavier,12
-companion,Eli,9
+companion,Eli,10
 companion,Javishth,8
 companion,Sunita,8
+companion,Jack,7
 companion,Sanjay,7
-companion,Jack,6
 companion,Berna,5
 companion,Kunal,5
 companion,Ted,5
@@ -283,7 +283,7 @@ companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
 location,Home,100
-location,Metrograph,56
+location,Metrograph,57
 location,BAM,28
 location,Film Forum,18
 location,Lee and Isabel's Apartment,8
@@ -315,7 +315,7 @@ release_decade,1970s,48
 release_decade,2000s,40
 release_decade,2020s,33
 release_decade,1950s,31
-release_decade,1940s,16
+release_decade,1940s,17
 release_decade,2010s,13
 release_decade,1930s,11
 release_decade,1920s,4
