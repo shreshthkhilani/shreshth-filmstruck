@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,392
-watch_year,2026,108
+watch_year,ALL_TIME,394
+watch_year,2026,110
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
@@ -104,6 +104,7 @@ director,David Mirkin,1
 director,Dev Patel,1
 director,Donna Deitch,1
 director,Doug Liman,1
+director,Eckhart Schmidt,1
 director,Edgar G. Ulmer,1
 director,Edgar Wright,1
 director,Elaine May,1
@@ -133,6 +134,7 @@ director,Jackie Chan,1
 director,Jacques Deray,1
 director,Jacques Tati,1
 director,James Bidgood,1
+director,Jane Schoenbrun,1
 director,Janis Crystal Lipzin,1
 director,Jay Roach,1
 director,Jean-Pierre Jeunet,1
@@ -225,11 +227,11 @@ director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
-language,en,163
+language,en,164
 language,fr,63
 language,ja,36
 language,zh,20
-language,de,14
+language,de,15
 language,fa,13
 language,es,10
 language,it,10
@@ -247,7 +249,7 @@ language,da,1
 language,hy,1
 language,ml,1
 language,no,1
-companion,Sophie,266
+companion,Sophie,268
 companion,Varnica,23
 companion,Yash,22
 companion,Lee,17
@@ -285,8 +287,8 @@ companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
 location,Home,100
-location,Metrograph,59
-location,BAM,29
+location,Metrograph,60
+location,BAM,30
 location,Film Forum,18
 location,Lee and Isabel's Apartment,8
 location,Flight to Abu Dabhi,3
@@ -310,12 +312,12 @@ location,Philadelphia Airbnb,1
 location,Prince Charles Cinema,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
-release_decade,1980s,67
+release_decade,1980s,68
 release_decade,1990s,67
 release_decade,1960s,58
 release_decade,1970s,48
 release_decade,2000s,40
-release_decade,2020s,34
+release_decade,2020s,35
 release_decade,1950s,31
 release_decade,1940s,18
 release_decade,2010s,13
