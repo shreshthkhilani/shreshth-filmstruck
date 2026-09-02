@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,394
-watch_year,2026,110
+watch_year,ALL_TIME,395
+watch_year,2026,111
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
@@ -104,6 +104,7 @@ director,David Mirkin,1
 director,Dev Patel,1
 director,Donna Deitch,1
 director,Doug Liman,1
+director,Douglas Sirk,1
 director,Eckhart Schmidt,1
 director,Edgar G. Ulmer,1
 director,Edgar Wright,1
@@ -227,7 +228,7 @@ director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
-language,en,164
+language,en,165
 language,fr,63
 language,ja,36
 language,zh,20
@@ -249,7 +250,7 @@ language,da,1
 language,hy,1
 language,ml,1
 language,no,1
-companion,Sophie,268
+companion,Sophie,269
 companion,Varnica,23
 companion,Yash,22
 companion,Lee,17
@@ -286,7 +287,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,100
+location,Home,101
 location,Metrograph,60
 location,BAM,30
 location,Film Forum,18
@@ -319,7 +320,7 @@ release_decade,1970s,48
 release_decade,2000s,40
 release_decade,2020s,35
 release_decade,1950s,31
-release_decade,1940s,18
+release_decade,1940s,19
 release_decade,2010s,13
 release_decade,1930s,12
 release_decade,1920s,4
