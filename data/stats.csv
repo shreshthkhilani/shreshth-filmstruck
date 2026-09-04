@@ -1,11 +1,11 @@
 stat,key,value
-watch_year,ALL_TIME,395
-watch_year,2026,111
+watch_year,ALL_TIME,396
+watch_year,2026,112
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
 director,Agnès Varda,17
-director,Alfred Hitchcock,8
+director,Alfred Hitchcock,9
 director,Jafar Panahi,8
 director,Satyajit Ray,8
 director,Werner Herzog,8
@@ -228,7 +228,7 @@ director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
-language,en,165
+language,en,166
 language,fr,63
 language,ja,36
 language,zh,20
@@ -250,7 +250,7 @@ language,da,1
 language,hy,1
 language,ml,1
 language,no,1
-companion,Sophie,269
+companion,Sophie,270
 companion,Varnica,23
 companion,Yash,22
 companion,Lee,17
@@ -287,7 +287,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
-location,Home,101
+location,Home,102
 location,Metrograph,60
 location,BAM,30
 location,Film Forum,18
@@ -319,7 +319,7 @@ release_decade,1960s,58
 release_decade,1970s,48
 release_decade,2000s,40
 release_decade,2020s,35
-release_decade,1950s,31
+release_decade,1950s,32
 release_decade,1940s,19
 release_decade,2010s,13
 release_decade,1930s,12
