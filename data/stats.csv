@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,397
-watch_year,2026,113
+watch_year,ALL_TIME,398
+watch_year,2026,114
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
@@ -32,6 +32,7 @@ director,Marcel Carné,4
 director,Robert Altman,4
 director,Todd Haynes,4
 director,Tsai Ming-liang,4
+director,Edward Yang,3
 director,Francis Ford Coppola,3
 director,Jean Cocteau,3
 director,Jean Renoir,3
@@ -48,7 +49,6 @@ director,António Reis,2
 director,Barry Sonnenfeld,2
 director,Carl Theodor Dreyer,2
 director,Dario Argento,2
-director,Edward Yang,2
 director,Emeric Pressburger,2
 director,Fritz Lang,2
 director,Hong Sang-soo,2
@@ -231,7 +231,7 @@ director,Yuval Abraham,1
 language,en,167
 language,fr,63
 language,ja,36
-language,zh,20
+language,zh,21
 language,de,15
 language,fa,13
 language,es,10
@@ -250,7 +250,7 @@ language,da,1
 language,hy,1
 language,ml,1
 language,no,1
-companion,Sophie,271
+companion,Sophie,272
 companion,Varnica,23
 companion,Yash,22
 companion,Lee,17
@@ -288,7 +288,7 @@ companion,Meg,1
 companion,Rohin,1
 location,600 Park Pl,141
 location,Home,103
-location,Metrograph,60
+location,Metrograph,61
 location,BAM,30
 location,Film Forum,18
 location,Lee and Isabel's Apartment,8
@@ -314,7 +314,7 @@ location,Prince Charles Cinema,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
 release_decade,1980s,68
-release_decade,1990s,67
+release_decade,1990s,68
 release_decade,1960s,58
 release_decade,1970s,48
 release_decade,2000s,40
