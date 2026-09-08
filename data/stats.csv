@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,401
-watch_year,2026,117
+watch_year,ALL_TIME,402
+watch_year,2026,118
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
@@ -255,14 +255,14 @@ language,da,1
 language,hy,1
 language,ml,1
 language,no,1
-companion,Sophie,275
+companion,Sophie,276
 companion,Varnica,23
 companion,Yash,22
 companion,Lee,17
+companion,Eli,14
 companion,Isabel,14
-companion,Eli,13
 companion,Xavier,12
-companion,Jack,10
+companion,Jack,11
 companion,Javishth,8
 companion,Sunita,8
 companion,Sanjay,7
@@ -297,7 +297,7 @@ location,Metrograph,61
 location,BAM,30
 location,Film Forum,18
 location,Lee and Isabel's Apartment,8
-location,Arverne Cinema,3
+location,Arverne Cinema,4
 location,Flight to Abu Dabhi,3
 location,Hotel in Las Vegas,3
 location,Kunal’s apartment,3
