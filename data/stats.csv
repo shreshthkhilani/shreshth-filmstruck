@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,402
-watch_year,2026,118
+watch_year,ALL_TIME,403
+watch_year,2026,119
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
@@ -179,6 +179,7 @@ director,Marjorie Keller,1
 director,Marlon Riggs,1
 director,Mars Verrone,1
 director,Masaki Kobayashi,1
+director,Matt Johnson,1
 director,Maureen Gosling,1
 director,Med Hondo,1
 director,Michael Almereyda,1
@@ -233,7 +234,7 @@ director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
-language,en,169
+language,en,170
 language,fr,64
 language,ja,36
 language,zh,21
@@ -261,7 +262,7 @@ companion,Yash,22
 companion,Lee,17
 companion,Eli,14
 companion,Isabel,14
-companion,Xavier,12
+companion,Xavier,13
 companion,Jack,11
 companion,Javishth,8
 companion,Sunita,8
@@ -291,10 +292,11 @@ companion,James,1
 companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
+companion,Sam,1
 location,600 Park Pl,141
 location,Home,103
 location,Metrograph,61
-location,BAM,30
+location,BAM,31
 location,Film Forum,18
 location,Lee and Isabel's Apartment,8
 location,Arverne Cinema,4
@@ -324,7 +326,7 @@ release_decade,1990s,68
 release_decade,1960s,58
 release_decade,1970s,48
 release_decade,2000s,40
-release_decade,2020s,38
+release_decade,2020s,39
 release_decade,1950s,33
 release_decade,1940s,19
 release_decade,2010s,13
