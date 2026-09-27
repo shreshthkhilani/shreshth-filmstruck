@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,403
-watch_year,2026,119
+watch_year,ALL_TIME,404
+watch_year,2026,120
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
@@ -149,6 +149,7 @@ director,John Carpenter,1
 director,John Farrow,1
 director,John Huston,1
 director,John Turturro,1
+director,John Wilson,1
 director,Jon Turteltaub,1
 director,José Antônio Garcia,1
 director,Joseph H. Lewis,1
@@ -234,7 +235,7 @@ director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
-language,en,170
+language,en,171
 language,fr,64
 language,ja,36
 language,zh,21
@@ -256,7 +257,7 @@ language,da,1
 language,hy,1
 language,ml,1
 language,no,1
-companion,Sophie,276
+companion,Sophie,277
 companion,Varnica,23
 companion,Yash,22
 companion,Lee,17
@@ -296,7 +297,7 @@ companion,Sam,1
 location,600 Park Pl,141
 location,Home,103
 location,Metrograph,61
-location,BAM,31
+location,BAM,32
 location,Film Forum,18
 location,Lee and Isabel's Apartment,8
 location,Arverne Cinema,4
@@ -326,7 +327,7 @@ release_decade,1990s,68
 release_decade,1960s,58
 release_decade,1970s,48
 release_decade,2000s,40
-release_decade,2020s,39
+release_decade,2020s,40
 release_decade,1950s,33
 release_decade,1940s,19
 release_decade,2010s,13
