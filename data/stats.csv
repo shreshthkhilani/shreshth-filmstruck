@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,405
-watch_year,2026,121
+watch_year,ALL_TIME,407
+watch_year,2026,123
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
@@ -77,6 +77,7 @@ director,William Friedkin,2
 director,Wim Wenders,2
 director,Youssef Chahine,2
 director,Yurii Illienko,2
+director,Abel Ferrara,1
 director,Alan J. Pakula,1
 director,Andrzej Żuławski,1
 director,Anirban Dutta,1
@@ -203,6 +204,7 @@ director,Payal Kapadia,1
 director,Peter Hedges,1
 director,Phillip R. Ford,1
 director,Pier Paolo Pasolini,1
+director,Pradip Krishen,1
 director,Rachel Szor,1
 director,Ray Whitaker,1
 director,Rick Sloane,1
@@ -237,7 +239,7 @@ director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
-language,en,172
+language,en,174
 language,fr,64
 language,ja,36
 language,zh,21
@@ -265,7 +267,7 @@ companion,Yash,22
 companion,Lee,17
 companion,Eli,14
 companion,Isabel,14
-companion,Xavier,13
+companion,Xavier,14
 companion,Jack,11
 companion,Javishth,8
 companion,Sunita,8
@@ -284,6 +286,7 @@ companion,Diane,2
 companion,Geneva,2
 companion,Hannah,2
 companion,Lydia,2
+companion,Sam,2
 companion,Tanya,2
 companion,Vanshita,2
 companion,Warren,2
@@ -295,11 +298,10 @@ companion,James,1
 companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
-companion,Sam,1
 location,600 Park Pl,141
-location,Home,103
+location,Home,104
 location,Metrograph,61
-location,BAM,33
+location,BAM,34
 location,Film Forum,18
 location,Lee and Isabel's Apartment,8
 location,Arverne Cinema,4
@@ -324,8 +326,8 @@ location,Philadelphia Airbnb,1
 location,Prince Charles Cinema,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
-release_decade,1980s,68
-release_decade,1990s,68
+release_decade,1980s,69
+release_decade,1990s,69
 release_decade,1960s,58
 release_decade,1970s,48
 release_decade,2020s,41
