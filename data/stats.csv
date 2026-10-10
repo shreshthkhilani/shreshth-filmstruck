@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,407
-watch_year,2026,123
+watch_year,ALL_TIME,409
+watch_year,2026,125
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
@@ -167,6 +167,7 @@ director,Kevin Walker,1
 director,Khaled Jarrar,1
 director,Kleber Mendonça Filho,1
 director,Lana Wachowski,1
+director,Lance Oppenheim,1
 director,Larisa Shepitko,1
 director,Lawrence Ah Mon,1
 director,Lee Chang-dong,1
@@ -210,6 +211,7 @@ director,Ray Whitaker,1
 director,Rick Sloane,1
 director,Rob Cohen,1
 director,Rob Reiner,1
+director,Robert Hiltzik,1
 director,Robert Siodmak,1
 director,Robin Hardy,1
 director,Ronny Yu,1
@@ -239,7 +241,7 @@ director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
-language,en,174
+language,en,176
 language,fr,64
 language,ja,36
 language,zh,21
@@ -261,7 +263,7 @@ language,da,1
 language,hy,1
 language,ml,1
 language,no,1
-companion,Sophie,278
+companion,Sophie,279
 companion,Varnica,23
 companion,Yash,22
 companion,Lee,17
@@ -279,6 +281,7 @@ companion,Cecilia,4
 companion,Gabriel,3
 companion,Gavi,3
 companion,Lila,3
+companion,Sam,3
 companion,Akhil,2
 companion,Becca,2
 companion,Clio,2
@@ -286,7 +289,6 @@ companion,Diane,2
 companion,Geneva,2
 companion,Hannah,2
 companion,Lydia,2
-companion,Sam,2
 companion,Tanya,2
 companion,Vanshita,2
 companion,Warren,2
@@ -298,10 +300,11 @@ companion,James,1
 companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
+companion,Sam's friends,1
 location,600 Park Pl,141
 location,Home,104
 location,Metrograph,61
-location,BAM,34
+location,BAM,35
 location,Film Forum,18
 location,Lee and Isabel's Apartment,8
 location,Arverne Cinema,4
@@ -324,13 +327,14 @@ location,Flight to Phoenix,1
 location,IFC Center,1
 location,Philadelphia Airbnb,1
 location,Prince Charles Cinema,1
+location,Sam's apartment,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
-release_decade,1980s,69
+release_decade,1980s,70
 release_decade,1990s,69
 release_decade,1960s,58
 release_decade,1970s,48
-release_decade,2020s,41
+release_decade,2020s,42
 release_decade,2000s,40
 release_decade,1950s,33
 release_decade,1940s,19
