@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,409
-watch_year,2026,125
+watch_year,ALL_TIME,410
+watch_year,2026,126
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
@@ -32,6 +32,7 @@ director,Marcel Carné,4
 director,Robert Altman,4
 director,Todd Haynes,4
 director,Tsai Ming-liang,4
+director,Dario Argento,3
 director,Edward Yang,3
 director,Francis Ford Coppola,3
 director,Jean Cocteau,3
@@ -48,7 +49,6 @@ director,Ang Lee,2
 director,António Reis,2
 director,Barry Sonnenfeld,2
 director,Carl Theodor Dreyer,2
-director,Dario Argento,2
 director,Emeric Pressburger,2
 director,Fritz Lang,2
 director,Hong Sang-soo,2
@@ -247,8 +247,8 @@ language,ja,36
 language,zh,21
 language,de,15
 language,fa,13
+language,it,11
 language,es,10
-language,it,10
 language,cn,9
 language,hi,9
 language,bn,8
@@ -263,7 +263,7 @@ language,da,1
 language,hy,1
 language,ml,1
 language,no,1
-companion,Sophie,279
+companion,Sophie,280
 companion,Varnica,23
 companion,Yash,22
 companion,Lee,17
@@ -302,7 +302,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Sam's friends,1
 location,600 Park Pl,141
-location,Home,104
+location,Home,105
 location,Metrograph,61
 location,BAM,35
 location,Film Forum,18
@@ -330,7 +330,7 @@ location,Prince Charles Cinema,1
 location,Sam's apartment,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
-release_decade,1980s,70
+release_decade,1980s,71
 release_decade,1990s,69
 release_decade,1960s,58
 release_decade,1970s,48
