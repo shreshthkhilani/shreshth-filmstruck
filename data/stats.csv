@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,411
-watch_year,2026,127
+watch_year,ALL_TIME,412
+watch_year,2026,128
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
@@ -17,6 +17,7 @@ director,Les Blank,6
 director,Mikio Naruse,6
 director,Mira Nair,6
 director,Abbas Kiarostami,5
+director,Dario Argento,5
 director,David Cronenberg,5
 director,Nobuhiko Obayashi,5
 director,Spike Lee,5
@@ -24,7 +25,6 @@ director,Billy Wilder,4
 director,Bong Joon Ho,4
 director,Cheryl Dunye,4
 director,Claire Denis,4
-director,Dario Argento,4
 director,David Lynch,4
 director,Gregg Araki,4
 director,Ingmar Bergman,4
@@ -247,7 +247,7 @@ language,ja,36
 language,zh,21
 language,de,15
 language,fa,13
-language,it,12
+language,it,13
 language,es,10
 language,cn,9
 language,hi,9
@@ -263,7 +263,7 @@ language,da,1
 language,hy,1
 language,ml,1
 language,no,1
-companion,Sophie,281
+companion,Sophie,282
 companion,Varnica,23
 companion,Yash,22
 companion,Lee,17
@@ -302,7 +302,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Sam's friends,1
 location,600 Park Pl,141
-location,Home,106
+location,Home,107
 location,Metrograph,61
 location,BAM,35
 location,Film Forum,18
@@ -331,7 +331,7 @@ location,Sam's apartment,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
 release_decade,1980s,72
-release_decade,1990s,69
+release_decade,1990s,70
 release_decade,1960s,58
 release_decade,1970s,48
 release_decade,2020s,42
