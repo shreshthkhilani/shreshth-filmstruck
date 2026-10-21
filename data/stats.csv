@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,412
-watch_year,2026,128
+watch_year,ALL_TIME,413
+watch_year,2026,129
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
@@ -11,13 +11,13 @@ director,Satyajit Ray,8
 director,Werner Herzog,8
 director,Pedro Almodóvar,7
 director,Akira Kurosawa,6
+director,Dario Argento,6
 director,Éric Rohmer,6
 director,Jacques Demy,6
 director,Les Blank,6
 director,Mikio Naruse,6
 director,Mira Nair,6
 director,Abbas Kiarostami,5
-director,Dario Argento,5
 director,David Cronenberg,5
 director,Nobuhiko Obayashi,5
 director,Spike Lee,5
@@ -246,8 +246,8 @@ language,fr,64
 language,ja,36
 language,zh,21
 language,de,15
+language,it,14
 language,fa,13
-language,it,13
 language,es,10
 language,cn,9
 language,hi,9
@@ -263,7 +263,7 @@ language,da,1
 language,hy,1
 language,ml,1
 language,no,1
-companion,Sophie,282
+companion,Sophie,283
 companion,Varnica,23
 companion,Yash,22
 companion,Lee,17
@@ -302,7 +302,7 @@ companion,Meg,1
 companion,Rohin,1
 companion,Sam's friends,1
 location,600 Park Pl,141
-location,Home,107
+location,Home,108
 location,Metrograph,61
 location,BAM,35
 location,Film Forum,18
@@ -333,7 +333,7 @@ location,The Beverley Las Vegas,1
 release_decade,1980s,72
 release_decade,1990s,70
 release_decade,1960s,58
-release_decade,1970s,48
+release_decade,1970s,49
 release_decade,2020s,42
 release_decade,2000s,40
 release_decade,1950s,33
