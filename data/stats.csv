@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,413
-watch_year,2026,129
+watch_year,ALL_TIME,414
+watch_year,2026,130
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
@@ -115,6 +115,7 @@ director,Ester Krumbachová,1
 director,F. W. Murnau,1
 director,Federico Fellini,1
 director,Fernando Ayala,1
+director,François Girard,1
 director,Frank Capra,1
 director,Frank Ripploh,1
 director,Friz Freleng,1
@@ -242,7 +243,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
 language,en,176
-language,fr,64
+language,fr,65
 language,ja,36
 language,zh,21
 language,de,15
@@ -280,6 +281,7 @@ companion,Ted,5
 companion,Cecilia,4
 companion,Gabriel,3
 companion,Gavi,3
+companion,Hannah,3
 companion,Lila,3
 companion,Sam,3
 companion,Akhil,2
@@ -287,13 +289,13 @@ companion,Becca,2
 companion,Clio,2
 companion,Diane,2
 companion,Geneva,2
-companion,Hannah,2
 companion,Lydia,2
 companion,Tanya,2
 companion,Vanshita,2
 companion,Warren,2
 companion,Aditya,1
 companion,August,1
+companion,Brian,1
 companion,Deepa,1
 companion,Eital,1
 companion,James,1
@@ -301,6 +303,7 @@ companion,Jocelyn,1
 companion,Meg,1
 companion,Rohin,1
 companion,Sam's friends,1
+companion,Stephen,1
 location,600 Park Pl,141
 location,Home,108
 location,Metrograph,61
@@ -327,11 +330,12 @@ location,Flight to Phoenix,1
 location,IFC Center,1
 location,Philadelphia Airbnb,1
 location,Prince Charles Cinema,1
+location,Roxy,1
 location,Sam's apartment,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
 release_decade,1980s,72
-release_decade,1990s,70
+release_decade,1990s,71
 release_decade,1960s,58
 release_decade,1970s,49
 release_decade,2020s,42
