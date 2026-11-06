@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,414
-watch_year,2026,130
+watch_year,ALL_TIME,420
+watch_year,2026,136
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
@@ -9,19 +9,19 @@ director,Alfred Hitchcock,10
 director,Jafar Panahi,8
 director,Satyajit Ray,8
 director,Werner Herzog,8
+director,Dario Argento,7
+director,Éric Rohmer,7
 director,Pedro Almodóvar,7
 director,Akira Kurosawa,6
-director,Dario Argento,6
-director,Éric Rohmer,6
 director,Jacques Demy,6
 director,Les Blank,6
 director,Mikio Naruse,6
 director,Mira Nair,6
 director,Abbas Kiarostami,5
+director,Billy Wilder,5
 director,David Cronenberg,5
 director,Nobuhiko Obayashi,5
 director,Spike Lee,5
-director,Billy Wilder,4
 director,Bong Joon Ho,4
 director,Cheryl Dunye,4
 director,Claire Denis,4
@@ -58,6 +58,7 @@ director,John Waters,2
 director,Juraj Herz,2
 director,Jūzō Itami,2
 director,Kathleen Collins,2
+director,Ken Russell,2
 director,Leos Carax,2
 director,Lucrecia Martel,2
 director,Margarida Cordeiro,2
@@ -163,7 +164,6 @@ director,Kamal Swaroop,1
 director,Karan Tejpal,1
 director,Kassem Hawal,1
 director,Kathryn Bigelow,1
-director,Ken Russell,1
 director,Kevin Walker,1
 director,Khaled Jarrar,1
 director,Kleber Mendonça Filho,1
@@ -215,6 +215,7 @@ director,Rob Reiner,1
 director,Robert Hiltzik,1
 director,Robert Siodmak,1
 director,Robin Hardy,1
+director,Roman Polanski,1
 director,Ronny Yu,1
 director,Rose Glass,1
 director,Rose Troche,1
@@ -236,18 +237,19 @@ director,Susan Sontag,1
 director,Takahiko Iimura,1
 director,Terence Davies,1
 director,Tim Burton,1
+director,Tobe Hooper,1
 director,Vera Drew,1
 director,Vincent Gallo,1
 director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
-language,en,176
-language,fr,65
+language,en,180
+language,fr,66
 language,ja,36
 language,zh,21
 language,de,15
-language,it,14
+language,it,15
 language,fa,13
 language,es,10
 language,cn,9
@@ -264,8 +266,8 @@ language,da,1
 language,hy,1
 language,ml,1
 language,no,1
-companion,Sophie,283
-companion,Varnica,23
+companion,Sophie,288
+companion,Varnica,24
 companion,Yash,22
 companion,Lee,17
 companion,Eli,14
@@ -281,6 +283,7 @@ companion,Ted,5
 companion,Cecilia,4
 companion,Gabriel,3
 companion,Gavi,3
+companion,Geneva,3
 companion,Hannah,3
 companion,Lila,3
 companion,Sam,3
@@ -288,12 +291,12 @@ companion,Akhil,2
 companion,Becca,2
 companion,Clio,2
 companion,Diane,2
-companion,Geneva,2
 companion,Lydia,2
 companion,Tanya,2
 companion,Vanshita,2
 companion,Warren,2
 companion,Aditya,1
+companion,Adrian,1
 companion,August,1
 companion,Brian,1
 companion,Deepa,1
@@ -305,9 +308,9 @@ companion,Rohin,1
 companion,Sam's friends,1
 companion,Stephen,1
 location,600 Park Pl,141
-location,Home,108
-location,Metrograph,61
-location,BAM,35
+location,Home,111
+location,Metrograph,62
+location,BAM,37
 location,Film Forum,18
 location,Lee and Isabel's Apartment,8
 location,Arverne Cinema,4
@@ -336,8 +339,8 @@ location,Syndicated,1
 location,The Beverley Las Vegas,1
 release_decade,1980s,72
 release_decade,1990s,71
-release_decade,1960s,58
-release_decade,1970s,49
+release_decade,1960s,61
+release_decade,1970s,52
 release_decade,2020s,42
 release_decade,2000s,40
 release_decade,1950s,33
