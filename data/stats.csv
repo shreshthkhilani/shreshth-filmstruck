@@ -1,6 +1,6 @@
 stat,key,value
-watch_year,ALL_TIME,420
-watch_year,2026,136
+watch_year,ALL_TIME,422
+watch_year,2026,138
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
@@ -11,12 +11,12 @@ director,Satyajit Ray,8
 director,Werner Herzog,8
 director,Dario Argento,7
 director,Éric Rohmer,7
+director,Mira Nair,7
 director,Pedro Almodóvar,7
 director,Akira Kurosawa,6
 director,Jacques Demy,6
 director,Les Blank,6
 director,Mikio Naruse,6
-director,Mira Nair,6
 director,Abbas Kiarostami,5
 director,Billy Wilder,5
 director,David Cronenberg,5
@@ -49,6 +49,7 @@ director,Ang Lee,2
 director,António Reis,2
 director,Barry Sonnenfeld,2
 director,Carl Theodor Dreyer,2
+director,Elaine May,2
 director,Emeric Pressburger,2
 director,Fritz Lang,2
 director,Hong Sang-soo,2
@@ -110,7 +111,6 @@ director,Douglas Sirk,1
 director,Eckhart Schmidt,1
 director,Edgar G. Ulmer,1
 director,Edgar Wright,1
-director,Elaine May,1
 director,Eloïse Le Gallo,1
 director,Ester Krumbachová,1
 director,F. W. Murnau,1
@@ -244,7 +244,7 @@ director,Vishal Bhardwaj,1
 director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
-language,en,180
+language,en,181
 language,fr,66
 language,ja,36
 language,zh,21
@@ -252,8 +252,8 @@ language,de,15
 language,it,15
 language,fa,13
 language,es,10
+language,hi,10
 language,cn,9
-language,hi,9
 language,bn,8
 language,ko,7
 language,sv,6
@@ -266,14 +266,14 @@ language,da,1
 language,hy,1
 language,ml,1
 language,no,1
-companion,Sophie,288
+companion,Sophie,290
 companion,Varnica,24
 companion,Yash,22
 companion,Lee,17
-companion,Eli,14
+companion,Eli,15
 companion,Isabel,14
 companion,Xavier,14
-companion,Jack,11
+companion,Jack,12
 companion,Javishth,8
 companion,Sunita,8
 companion,Sanjay,7
@@ -308,9 +308,9 @@ companion,Rohin,1
 companion,Sam's friends,1
 companion,Stephen,1
 location,600 Park Pl,141
-location,Home,111
+location,Home,112
 location,Metrograph,62
-location,BAM,37
+location,BAM,38
 location,Film Forum,18
 location,Lee and Isabel's Apartment,8
 location,Arverne Cinema,4
@@ -337,10 +337,10 @@ location,Roxy,1
 location,Sam's apartment,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
-release_decade,1980s,72
+release_decade,1980s,73
 release_decade,1990s,71
 release_decade,1960s,61
-release_decade,1970s,52
+release_decade,1970s,53
 release_decade,2020s,42
 release_decade,2000s,40
 release_decade,1950s,33
