@@ -1,15 +1,15 @@
 stat,key,value
-watch_year,ALL_TIME,423
-watch_year,2026,139
+watch_year,ALL_TIME,424
+watch_year,2026,140
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
-runtime,known_watches,422
-runtime,total_minutes,41178
+runtime,known_watches,423
+runtime,total_minutes,41223
 director,Agnès Varda,17
 director,Alfred Hitchcock,10
+director,Satyajit Ray,9
 director,Jafar Panahi,8
-director,Satyajit Ray,8
 director,Werner Herzog,8
 director,Dario Argento,7
 director,Éric Rohmer,7
@@ -254,8 +254,8 @@ language,zh,21
 language,de,15
 language,it,15
 language,fa,13
+language,hi,11
 language,es,10
-language,hi,10
 language,cn,9
 language,bn,8
 language,ko,7
@@ -311,7 +311,7 @@ companion,Rohin,1
 companion,Sam's friends,1
 companion,Stephen,1
 location,600 Park Pl,141
-location,Home,112
+location,Home,113
 location,Metrograph,62
 location,BAM,39
 location,Film Forum,18
@@ -340,7 +340,7 @@ location,Roxy,1
 location,Sam's apartment,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
-release_decade,1980s,73
+release_decade,1980s,74
 release_decade,1990s,71
 release_decade,1960s,61
 release_decade,1970s,54
