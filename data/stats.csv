@@ -1,11 +1,11 @@
 stat,key,value
-watch_year,ALL_TIME,424
-watch_year,2026,140
+watch_year,ALL_TIME,425
+watch_year,2026,141
 watch_year,2025,108
 watch_year,2024,172
 watch_year,2023,4
-runtime,known_watches,423
-runtime,total_minutes,41223
+runtime,known_watches,424
+runtime,total_minutes,41323
 director,Agnès Varda,17
 director,Alfred Hitchcock,10
 director,Satyajit Ray,9
@@ -51,6 +51,7 @@ director,Ang Lee,2
 director,António Reis,2
 director,Barry Sonnenfeld,2
 director,Carl Theodor Dreyer,2
+director,Chris Marker,2
 director,Elaine May,2
 director,Emeric Pressburger,2
 director,Fritz Lang,2
@@ -102,7 +103,6 @@ director,Céline Sciamma,1
 director,Chad Stahelski,1
 director,Charles Laughton,1
 director,Charles Vidor,1
-director,Chris Marker,1
 director,Christian-Jaque,1
 director,Danny DeVito,1
 director,David Mirkin,1
@@ -248,7 +248,7 @@ director,Wei Shujun,1
 director,Yorgos Lanthimos,1
 director,Yuval Abraham,1
 language,en,182
-language,fr,66
+language,fr,67
 language,ja,36
 language,zh,21
 language,de,15
@@ -269,7 +269,7 @@ language,da,1
 language,hy,1
 language,ml,1
 language,no,1
-companion,Sophie,290
+companion,Sophie,291
 companion,Varnica,24
 companion,Yash,22
 companion,Lee,17
@@ -311,7 +311,7 @@ companion,Rohin,1
 companion,Sam's friends,1
 companion,Stephen,1
 location,600 Park Pl,141
-location,Home,113
+location,Home,114
 location,Metrograph,62
 location,BAM,39
 location,Film Forum,18
@@ -340,7 +340,7 @@ location,Roxy,1
 location,Sam's apartment,1
 location,Syndicated,1
 location,The Beverley Las Vegas,1
-release_decade,1980s,74
+release_decade,1980s,75
 release_decade,1990s,71
 release_decade,1960s,61
 release_decade,1970s,54
